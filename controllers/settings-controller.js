@@ -212,21 +212,25 @@ const encryptLetter = async (req, res, next) => {
   }
 
   const { words } = req.body;
-  const arrayLetters = ENGINE.processTextToArray(words);
+  try {
+    const arrayLetters = ENGINE.processTextToArray(words);
 
-  const letterLibs = ENGINE.encryptedLetterLibrary;
-  let convertedList = [];
+    const letterLibs = ENGINE.encryptedLetterLibrary;
+    let convertedList = [];
 
-  arrayLetters.forEach((word) => {
-    let val = "";
-    [...word].forEach((letter) => {
-      const child = letterLibs.find((x) => x.key === letter);
-      if (child) {
-        val += replaceAll(letter, child.key, child.value);
-      }
+    arrayLetters.forEach((word) => {
+      let val = "";
+      [...word].forEach((letter) => {
+        const child = letterLibs.find((x) => x.key === letter);
+        if (child) {
+          val += replaceAll(letter, child.key, child.value);
+        }
+      });
+      convertedList.push({ key: word, value: val });
     });
-    convertedList.push({ key: word, value: val });
-  });
+  } catch (error) {
+    return next(new HttpError("Invalid letter: " + error, 422));
+  }
 
   res.status(202).json({ wordEncrypted: convertedList });
 };
@@ -244,31 +248,35 @@ const encryptSensitiveWords = async (req, res, next) => {
   const { words } = req.body;
   let matchedWords = [];
 
-  const letterLibs = ENGINE.encryptedLetterLibrary;
-  const sensitiveWordLibs = ENGINE.sensitiveWordsLib;
-  let convertedList = [];
+  try {
+    const letterLibs = ENGINE.encryptedLetterLibrary;
+    const sensitiveWordLibs = ENGINE.sensitiveWordsLib;
+    let convertedList = [];
 
-  sensitiveWordLibs.forEach((element) => {
-    const found = words.search(element);
-    const found2 = words.search(/element/i);
-    if (found !== -1) {
-      matchedWords.push(element);
-    }
-    if (found2 !== -1) {
-      matchedWords.push(/element/i);
-    }
-  });
-
-  matchedWords.forEach((word) => {
-    let val = "";
-    [...word].forEach((letter) => {
-      const child = letterLibs.find((x) => x.key === letter);
-      if (child) {
-        val += replaceAll(letter, child.key, child.value);
+    sensitiveWordLibs.forEach((element) => {
+      const found = words.search(element);
+      const found2 = words.search(/element/i);
+      if (found !== -1) {
+        matchedWords.push(element);
+      }
+      if (found2 !== -1) {
+        matchedWords.push(/element/i);
       }
     });
-    convertedList.push({ key: word, value: val });
-  });
+
+    matchedWords.forEach((word) => {
+      let val = "";
+      [...word].forEach((letter) => {
+        const child = letterLibs.find((x) => x.key === letter);
+        if (child) {
+          val += replaceAll(letter, child.key, child.value);
+        }
+      });
+      convertedList.push({ key: word, value: val });
+    });
+  } catch (error) {
+    return next(new HttpError("Invalid letter: " + error, 422));
+  }
 
   res.status(202).json({ wordEncrypted: convertedList });
 };
