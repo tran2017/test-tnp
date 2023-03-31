@@ -9,11 +9,11 @@ const dns = require("dns");
 const net = require("net");
 const dnsbl = require("dnsbl");
 const parsePhoneNumber = require("libphonenumber-js/max");
-const { PhoneNumberToCarrierMapper } = require("phone-carrier");
 const lookup = require("country-code-lookup");
 var { MailListener } = require("mail-listener5");
 const legit = require("legit");
 const esc = require("email-syntax-check");
+const { geocoder, carrier } = require("libphonenumber-geo-carrier");
 
 const calculateElapsedDay = (regDate) => {
   const elapsedMiliseconds = new Date() - new Date(regDate);
@@ -358,7 +358,6 @@ const getPhoneInfo = async (req, res, next) => {
     return next(new HttpError("Invalid emails", 422));
   }
 
-  const mapper = PhoneNumberToCarrierMapper.getInstance();
   const { numbers } = req.body;
   const numberArr = [];
   for (let index = 0; index < numbers.length; index++) {
@@ -371,7 +370,8 @@ const getPhoneInfo = async (req, res, next) => {
     try {
       const phoneNumber = parsePhoneNumber(number);
       const type = phoneNumber.getType();
-      const carrier = await mapper.getNameForValidNumber(number); // AirTel
+      const location = await geocoder(phoneNumber);
+      const carrierName = await carrier(phoneNumber);
       const countryData = lookup.byIso(phoneNumber.country);
 
       phoneData = {
@@ -380,10 +380,11 @@ const getPhoneInfo = async (req, res, next) => {
         type: type,
         local: phoneNumber.formatNational(),
         international: phoneNumber.formatInternational(),
-        carrier: carrier,
+        carrier: carrierName,
         continent: countryData.continent,
         region: countryData.region,
         country: countryData.country,
+        city: location,
         capital: countryData.capital,
         isValid: true,
       };
