@@ -559,58 +559,7 @@ const sensitiveWordsLib = [
   "Rates",
 ];
 
-const processTextToArray = (text) => {
-  const arrayLetters = text
-    .trim()
-    .replaceAll("\n", " ")
-    .replaceAll("\t", " ")
-    .replaceAll("\r", " ")
-    .replaceAll(",", " ")
-    .replaceAll(".", " ")
-    .replaceAll("!", " ")
-    .replaceAll("&", " ")
-    .replaceAll("-", " ")
-    .replaceAll(":", " ")
-    .replaceAll(";", " ")
-    .replaceAll("?", " ")
-    .replaceAll(")", " ")
-    .replaceAll("(", " ")
-    .replaceAll("[", " ")
-    .replaceAll("]", " ")
-    .replaceAll("{", " ")
-    .replaceAll("}", " ")
-    .replaceAll("#", " ")
-    .replaceAll("@", " ")
-    .replaceAll("_", " ")
-    .replaceAll("=", " ")
-    .replaceAll("|", " ")
-    .replaceAll("/", " ")
-    .replaceAll(">", " ")
-    .replaceAll("<", " ")
-    .replaceAll('"', " ")
-    .replaceAll("'", " ")
-    .replaceAll("~", " ")
-    .replaceAll("+", " ")
-    .split(" ")
-    .filter((x) => x)
-    .filter((y) => y.length > 1)
-    .filter((y) => y.toLowerCase() !== "style")
-    .filter((y) => y.toLowerCase() !== "title")
-    .filter((y) => y.toLowerCase() !== "height")
-    .filter((y) => y.toLowerCase() !== "auto")
-    .filter((y) => y.toLowerCase() !== "meta")
-    .filter((y) => y.toLowerCase() !== "img")
-    .filter((y) => y.toLowerCase() !== "center")
-    .filter((y) => y.toLowerCase() !== "left")
-    .filter((y) => y.toLowerCase() !== "right")
-    .filter((y) => y.toLowerCase() !== "margin")
-    .filter((y) => y.toLowerCase() !== "color")
-    .filter((y) => y.toLowerCase() !== "padding")
-    .filter((y) => y.toLowerCase() !== "span")
-    .filter((y) => y.toLowerCase() !== "width");
 
-  return arrayLetters;
-};
 
 const blockLists = [
   "access.redhawk.org",
@@ -714,6 +663,6 @@ exports.summaryData = summaryData;
 exports.commonValues = commonValues;
 exports.encryptedLetterLibrary = encryptedLetterLibrary;
 exports.sensitiveWordsLib = sensitiveWordsLib;
-exports.processTextToArray = processTextToArray;
+// exports.processTextToArray = processTextToArray;
 exports.blockLists = blockLists;
 exports.DEAD_MAIL_STATUS = DEAD_MAIL_STATUS;

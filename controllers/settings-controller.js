@@ -205,6 +205,59 @@ const removeTemplates = async (req, res, next) => {
   }
 };
 
+const processTextToArray = (text) => {
+  const arrayLetters = text
+    .trim()
+    .replaceAll("\n", " ")
+    .replaceAll("\t", " ")
+    .replaceAll("\r", " ")
+    .replaceAll(",", " ")
+    .replaceAll(".", " ")
+    .replaceAll("!", " ")
+    .replaceAll("&", " ")
+    .replaceAll("-", " ")
+    .replaceAll(":", " ")
+    .replaceAll(";", " ")
+    .replaceAll("?", " ")
+    .replaceAll(")", " ")
+    .replaceAll("(", " ")
+    .replaceAll("[", " ")
+    .replaceAll("]", " ")
+    .replaceAll("{", " ")
+    .replaceAll("}", " ")
+    .replaceAll("#", " ")
+    .replaceAll("@", " ")
+    .replaceAll("_", " ")
+    .replaceAll("=", " ")
+    .replaceAll("|", " ")
+    .replaceAll("/", " ")
+    .replaceAll(">", " ")
+    .replaceAll("<", " ")
+    .replaceAll('"', " ")
+    .replaceAll("'", " ")
+    .replaceAll("~", " ")
+    .replaceAll("+", " ")
+    .split(" ")
+    .filter((x) => x)
+    .filter((y) => y.length > 1)
+    .filter((y) => y.toLowerCase() !== "style")
+    .filter((y) => y.toLowerCase() !== "title")
+    .filter((y) => y.toLowerCase() !== "height")
+    .filter((y) => y.toLowerCase() !== "auto")
+    .filter((y) => y.toLowerCase() !== "meta")
+    .filter((y) => y.toLowerCase() !== "img")
+    .filter((y) => y.toLowerCase() !== "center")
+    .filter((y) => y.toLowerCase() !== "left")
+    .filter((y) => y.toLowerCase() !== "right")
+    .filter((y) => y.toLowerCase() !== "margin")
+    .filter((y) => y.toLowerCase() !== "color")
+    .filter((y) => y.toLowerCase() !== "padding")
+    .filter((y) => y.toLowerCase() !== "span")
+    .filter((y) => y.toLowerCase() !== "width");
+
+  return arrayLetters;
+};
+
 const encryptLetter = async (req, res, next) => {
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
@@ -215,7 +268,7 @@ const encryptLetter = async (req, res, next) => {
   let convertedList = [];
 
   try {
-    const arrayLetters = ENGINE.processTextToArray(words);
+    const arrayLetters = processTextToArray(words);
     const letterLibs = ENGINE.encryptedLetterLibrary;
 
     arrayLetters.forEach((word) => {
@@ -229,7 +282,7 @@ const encryptLetter = async (req, res, next) => {
       convertedList.push({ key: word, value: val });
     });
   } catch (error) {
-    return next(new HttpError("Invalid letter: " + error, 422));
+    return next(new HttpError(error.message, 422));
   }
 
   res.status(202).json({ wordEncrypted: convertedList });
@@ -275,7 +328,7 @@ const encryptSensitiveWords = async (req, res, next) => {
       convertedList.push({ key: word, value: val });
     });
   } catch (error) {
-    return next(new HttpError("Invalid letter: " + error, 422));
+    return next(new HttpError(error.message, 422));
   }
 
   res.status(202).json({ wordEncrypted: convertedList });
