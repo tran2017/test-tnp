@@ -212,11 +212,11 @@ const encryptLetter = async (req, res, next) => {
   }
 
   const { words } = req.body;
+  let convertedList = [];
+
   try {
     const arrayLetters = ENGINE.processTextToArray(words);
-
     const letterLibs = ENGINE.encryptedLetterLibrary;
-    let convertedList = [];
 
     arrayLetters.forEach((word) => {
       let val = "";
@@ -248,10 +248,10 @@ const encryptSensitiveWords = async (req, res, next) => {
   const { words } = req.body;
   let matchedWords = [];
 
+  let convertedList = [];
   try {
     const letterLibs = ENGINE.encryptedLetterLibrary;
     const sensitiveWordLibs = ENGINE.sensitiveWordsLib;
-    let convertedList = [];
 
     sensitiveWordLibs.forEach((element) => {
       const found = words.search(element);
