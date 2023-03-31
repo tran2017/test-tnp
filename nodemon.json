@@ -1,8 +1,0 @@
-{
-  "env": {
-    "DB_USER": "j-tran",
-    "DB_PASSWORD": "X60RJhIGEzJFJU0e",
-    "DB_NAME": "products-manager",
-    "JWT_KEY":"top_secret_token_2023"
-  }
-}
