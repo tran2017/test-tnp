@@ -1,0 +1,1888 @@
+94.46.14.131:587:esjbv.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.64:587:voidpersonal.com:Almouroltec Servicos De Informatica E Internet LDA
+77.54.127.212:587:vodafone.pt:Vodafone Portugal
+94.46.22.86:587:lojapos.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.45.232:587:cm-nelas.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.221.34.162:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+94.46.25.212:587:hamiltonconte.com:Almouroltec Servicos De Informatica E Internet LDA
+89.152.252.109:25:netcabo.pt:NOS Comunicacoes S.A.
+94.46.173.142:587:7app.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.113.142.191:25:sfclubguide.com:I4W - Web Solutions
+94.46.169.70:587:mmcl.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.166.114:25:grupoarmeria.pt:NOS COMUNICACOES S.A
+62.28.194.14:25:webside.pt:PT Prime
+94.46.169.231:587:ibagyou.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.137.200.59:587:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+188.82.105.249:587:telepac.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+109.71.47.60:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.50:587:valorvisual.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.32:587:lehmus.pt:Claranet
+94.126.171.165:587:offshoresmarine.com:DMNS - DOMINIOS, S.A
+130.185.84.132:587:workmove.net:Almouroltec Servicos De Informatica E Internet LDA
+62.48.195.152:587:activespaceautomation.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+213.13.189.58:25:ervilhazul.pt:PT Comunicacoes S.A.
+213.30.21.18:587:vodafone.pt:Vodafone Portugal
+188.93.230.105:587:ibername.com:Claranet
+188.93.227.139:587:ibername.com:Claranet
+94.46.181.15:587:kalimodjo.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.45.152:587:leveosseusoculosavoar.com:Almouroltec Servicos De Informatica E Internet LDA
+2.80.160.54:587:telepac.pt:PT Comunicacoes S.A
+195.23.92.252:25:ip.pt:NOS COMUNICACOES S.A.
+94.46.180.39:587:perfectloom.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.115:587:vertigohosting.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.211:587:pastadigital.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.223:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.78.10:25:redemovel.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.173.162:587:gvk.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.162.171:587:myantillia.com:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.14.82:587:danielmedia.agency:Almouroltec Servicos De Informatica E Internet LDA
+89.115.4.132:587:vodafone.pt:Vodafone Portugal
+94.46.28.212:587:perpetuo-socorro.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.120.7:587:omnibeesmail.com:Vodafone Portugal - Communicacoes Pessoais S.A.
+130.185.85.245:587:caixiave.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.192:587:getfound.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.37.235.249:587:vodafone.pt:Vodafone Portugal
+94.46.20.139:587:cosmetic2go.com:Almouroltec Servicos De Informatica E Internet LDA
+176.61.147.137:587:formaweb.com.pt:Flesk Telecom
+94.46.15.78:587:esferacritica.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.137:587:optiontwelve.com:Almouroltec Servicos De Informatica E Internet LDA
+195.23.42.148:25:perfxp.com:NOS COMUNICACOES
+213.58.158.35:25:luma.pt:ONITELECOM IP Address
+94.46.28.101:587:sollactintas.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.65.137.147:587:xkt.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.14.173:587:virtualp.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.227.22:587:wv.pt:Claranet Portugal
+94.46.14.145:587:modal.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.29.174:25:webside.pt:PT Prime
+94.46.173.60:587:saborintenso.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.174.74:25:webside.pt:PT Prime
+193.136.128.20:25:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+89.26.240.75:587:webhs.org:Onitelecom - Infocomunicacoes
+94.46.22.141:587:stationpc.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.217:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.113.142.216:25:kashcard.net:I4W - Web Solutions
+193.136.216.253:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+193.137.211.61:25:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.14.147:587:ica.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.136.115.199:25:unl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+83.240.153.185:25:sistimetra.pt:PT Prime
+213.58.152.193:25:uniarme.pt:ONITELECOM - INFOCOMUNICACOES, S.A.
+94.46.30.54:587:brinde-companhia.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.147:587:allweb4pme.eu:Almouroltec Servicos De Informatica E Internet LDA
+94.46.167.42:587:dplay.tv:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.35:587:receitasemenus.net:Almouroltec Servicos De Informatica E Internet LDA
+176.61.150.103:587:comserver.pt:Claranet SOHO
+94.46.163.174:587:saboresagranel.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.10.12:587:cm-odemira.pt:PT Prime
+195.22.10.226:587:cyclopnet.pt:Clara.net Portugal
+188.93.227.244:587:ibername.com:Claranet
+188.250.94.229:25:telepac.pt:PT Comunicacoes S.A
+94.46.25.137:587:celar.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.45.73:587:tub.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.181.104:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.28.164:587:zantia.com:Almouroltec Servicos De Informatica E Internet LDA
+176.61.150.87:587:mtstech.pt:Claranet SOHO
+88.157.229.118:25:multitema.pt:NOS COMUNICACOES
+194.65.118.90:587:supernet.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.48.212.170:587:muww.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+83.144.144.36:587:netcabo.pt:NOS COMUNICACOES, S.A.
+94.46.15.167:587:crystalnails.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.30.68.5:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.126.173.71:587:smarktinframoura.com:Dominios
+188.93.230.47:587:acientistaagricola.pt:Claranet
+95.136.9.11:25:cr-sroc.pt:Vodafone Portugal
+195.22.3.180:587:dessau.pt:Clara.net Portugal
+213.13.156.167:25:casasapo.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+109.71.43.96:587:bombeirosdeobidos.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.126.26.114:25:etma-portugal.com:NOS COMUNICACOES
+109.71.43.212:587:casadasartes.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.162:587:gearsp.com:Almouroltec Servicos De Informatica E Internet LDA
+185.113.142.207:25:rfcpa.net:I4W - Web Solutions
+109.71.44.64:587:clickporto.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.164.159:587:cybershop.pt:Vodafone Portugal
+176.61.147.16:587:dourogas.pt:Flesk Telecom
+94.46.169.95:587:compulab.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.136.14.70:25:piep.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+194.65.16.123:25:vdl.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+80.172.255.51:587:dnspt.net:Claranet Portugal
+176.61.149.88:587:brainit-serv.com:Flesk Telecom
+94.46.169.150:587:retzob2b.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.222:587:tascajota.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.93:587:mybrinde.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.30:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.103:587:viaoceanica.net:Almouroltec Servicos De Informatica E Internet LDA
+148.69.187.233:25:piubelle.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.168.41:587:shopigolas.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.135.76:587:bydascloud.com:Almouroltec Servicos De Informatica E Internet LDA
+195.23.11.163:25:novis.pt:NOS COMUNICACOES S.A.
+94.46.167.40:587:net7.pt:
+81.84.237.105:587:zarph.pt:NOS COMUNICACOES S.A
+185.99.234.131:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.170.31:587:inovazi.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.137:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+87.103.120.58:587:stac.co.ao:Vodafone Portugal - Communicacoes Pessoais S.A.
+176.221.38.104:587:ciberserver.cloud:CiberConceito Informatica e Servicos Unipessoal, Lda
+87.103.123.70:587:copahost.com:Vodafone Portugal - Communicacoes Pessoais S.A.
+212.18.181.89:25:vodafone.pt:Vodafone Portugal
+94.46.25.28:587:sshare.media:Almouroltec Servicos De Informatica E Internet LDA
+185.113.142.134:587:escola-apel.com:I4W - Web Solutions
+213.58.161.58:587:servidorhh.com:ONITELECOM IP Address
+94.46.169.106:587:extrabite.net:Almouroltec Servicos De Informatica E Internet LDA
+109.71.45.71:587:evolua.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.42.19:587:ocb.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.143:25:ibername.com:Claranet
+148.69.88.181:587:lanidor.com:Vodafone Portugal - Communicacoes Pessoais S.A.
+89.152.242.89:25:netcabo.pt:NOS Comunicacoes S.A.
+83.240.143.14:587:coimbraiparque.pt:PT Prime
+94.46.170.242:587:corridadotempo.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.56:587:sexyething.com:Almouroltec Servicos De Informatica E Internet LDA
+185.113.143.45:25:indianastrologeronline.com:I4W - Web Solutions
+195.22.19.197:587:wp-ns.com:Claranet Limited
+185.99.234.56:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.30.128:587:casascomdesign.pt:Almouroltec Servicos De Informatica E Internet LDA
+85.88.140.244:587:csassociados.pt:COLT Technology Services Group Limited
+188.83.137.208:587:telepac.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+94.46.180.72:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.85.35:25:netcabo.pt:NOS COMUNICACOES S.A
+94.23.78.140:587:ip-94-23-78.eu:OVH ISP
+130.185.87.224:587:aeroiris.com:Almouroltec Servicos De Informatica E Internet LDA
+176.221.33.233:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+194.65.139.70:587:balancecompany.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+148.69.183.51:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.180.22:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.31:587:eoscreative.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.227.197:25:laut.digital:NOS COMUNICACOES
+94.46.30.147:587:iomtpl.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.60:25:ibername.com:Claranet
+5.249.123.182:587:matosinhoshabit.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.169.171:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.74:587:asfaltolargo.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.13.108.13:587:stop.pt:PT Comunicacoes S.A.
+109.71.47.82:587:mydnspt.net:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.173:587:ibername.com:Claranet
+94.46.180.150:587:datesinfinite.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.165.101:587:hydraplan.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.51:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+212.13.41.69:587:g9telecom.pt:Nortenet - Sistemas de Comunicacao SA.
+94.46.180.58:587:tanicpass.com:Almouroltec Servicos De Informatica E Internet LDA
+62.48.150.4:25:ptprime.net:PT Prime
+94.46.169.84:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+87.103.122.98:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+193.136.216.104:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+195.23.78.181:587:dnoticias.pt:NOS COMUNICACOES
+62.28.187.150:25:ismt.pt:PT Prime
+94.46.135.74:587:xp-cloud.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.72.239:25:algartalhos.pt:PT Prime
+109.71.44.225:587:simposium.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.86.129:587:onvolt.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.23.78.31:587:qepler-global.com:OVH ISP
+94.46.169.11:587:thebolt.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.81:587:passatemposreckitt.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.57:587:tmihost.net:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.197:587:sensuality-nights.com:Almouroltec Servicos De Informatica E Internet LDA
+5.249.116.39:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+188.93.231.13:587:ruasdoporto.com:Claranet
+95.136.8.231:25:vodafone.pt:Vodafone Portugal
+213.30.4.34:587:sscml.pt:Vodafone Portugal
+89.26.240.22:587:serverhs.org:Onitelecom - Infocomunicacoes
+94.46.169.110:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.150.199:587:oceanoideias.com:Claranet SOHO
+148.69.77.71:587:vodafone.pt:Vodafone Portugal
+94.46.170.219:587:nerlei.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.179:587:ourivesariaoliveiras.pt:Almouroltec Servicos De Informatica E Internet LDA
+5.249.117.85:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+62.28.184.88:25:byside.com:PT Prime
+62.28.44.109:25:vilt-group.com:PT Prime
+94.46.180.43:587:perfectloom.com:Almouroltec Servicos De Informatica E Internet LDA
+194.65.90.222:25:cm-aveiro.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+94.46.23.249:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.60.45.152:25:vodafone.pt:Vodafone Portugal
+213.30.22.3:25:sogevinus.com:Vodafone Portugal
+195.22.8.73:587:wv.pt:Clara.net Portugal
+195.23.106.246:25:novis.pt:NOS COMUNICACOES S.A.
+109.71.47.161:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.23.236.252:25:novis.pt:NOS COMUNICACOES
+62.28.133.19:587:hidrogenios.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.28.28:587:masterstrategy.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.86:587:allesignals.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.109:587:essnortecvp.pt:Claranet
+176.61.148.179:587:artvision.pt:Claranet SOHO
+148.69.122.201:587:fbb.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+109.71.43.218:587:labuta.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.200:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.57:587:psd-lisboa.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.163.177:587:up.pt:Almouroltec Servicos De Informatica E Internet LDA
+5.249.110.215:587:asformacao.com:Vodafone Portugal
+176.61.148.200:587:furnishyourabode.com:Claranet SOHO
+130.185.86.112:587:paladarpronto.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.48.160.213:25:recnor.pt:PT Prime
+130.185.87.215:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.55:587:lojadopijama.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.45:587:ibername.com:Claranet
+195.22.8.68:587:dnskore.com:Clara.net Portugal
+185.99.234.74:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.28.99:587:ns-vps1.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.126.172.52:587:retailprice.pt:Dominios
+5.206.227.49:587:opteech.com:BlazingFast LLC
+85.245.252.201:25:telepac.pt:PT Comunicacoes S.A.
+88.157.221.254:25:flosel.com:NOS COMUNICACOES
+94.46.30.122:587:trofatec.net:Almouroltec Servicos De Informatica E Internet LDA
+185.15.23.147:587:servers.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.137.55.25:25:up.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+130.185.84.129:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.221:587:gondoprestige.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.118.115.220:587:angolacapitalpartners.com:Dream Fusion - IT Services
+109.71.46.87:25:as24768.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.88:587:allesignals.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.167:587:gyoza.com:Almouroltec Servicos De Informatica E Internet LDA
+194.38.138.6:587:ataegina.org:comnexo redes de communicase sa
+94.46.168.67:587:suportemente.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.84:587:bobble.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.23.30.140:25:novis.pt:NOS COMUNICACOES S.A.
+109.71.44.108:587:ap-hotelsresorts.com:Almouroltec Servicos De Informatica E Internet LDA
+195.23.33.1:25:garval.pt:NOS COMUNICACOES S.A.
+87.103.12.61:25:ccile.pt:Vodafone Portugal
+176.61.147.107:587:xdwebserver.com:Flesk Telecom
+146.193.38.19:587:inesc-id.pt:INESC - Instituto de Engenharia de Sistemas e Computadores
+130.185.87.23:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.17:587:digic.pt:Almouroltec Servicos De Informatica E Internet LDA
+81.90.55.60:25:refertelecom.pt:IP TELECOM, SERVICOS DE TELECOMUNICACOES S.A
+94.46.173.167:587:scmealhada.pt:Almouroltec Servicos De Informatica E Internet LDA
+89.152.241.147:587:itclinical.com:NOS Comunicacoes S.A.
+130.185.84.229:587:continente.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.13:587:leadershipbt.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.20.143:587:weblevel.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.147.181:587:kriacao.pt:Flesk Telecom
+148.69.188.201:25:vodafone.pt:Vodafone Portugal
+213.22.12.251:25:netcabo.pt:NOS Comunicacoes S.A.
+89.26.243.13:587:plotcontent.com:ONITELECOM
+185.99.234.59:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.28.224.36:25:bollinghaus.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+80.172.252.81:587:wp-ns.com:Claranet Limited
+94.46.168.109:587:alojamentos30.com:Almouroltec Servicos De Informatica E Internet LDA
+94.126.171.237:587:ideiasedesafios.com:DMNS - DOMINIOS, S.A
+94.61.199.222:25:vodafone.pt:Vodafone Portugal
+88.157.216.82:587:reboport.pt:NOS COMUNICACOES
+83.240.177.110:25:webside.pt:PT Prime
+193.126.49.235:25:novis.pt:EUnet
+80.172.227.32:587:wv.pt:Claranet Portugal
+213.63.138.19:25:trustenergy.pt:Ar Telecom
+94.46.14.37:587:newtour.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.173.34:25:heritage.pt:NOS COMUNICACOES S.A
+109.71.44.114:587:agriloja.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.27:587:algarveprimeiro.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.207:587:publimaster.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.99.234.48:587:mamassemduvidas.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+130.185.84.204:587:altadensidade.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.51:587:ruadasorte.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.22.21.102:25:decisoesesolucoes.com:Clara.net Portugal
+94.46.15.120:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.63.228.74:587:infinite.pt:AR TELECOM - Acessos e Redes de Telecomunicacoes
+185.113.142.203:25:dataglide.net:I4W - Web Solutions
+94.46.14.104:587:geracaosingular.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.148.22:587:exequator.pt:Claranet SOHO
+185.83.250.105:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+213.228.134.69:25:netvisao.pt:Nowo Communications
+5.249.86.255:587:vodafone.pt:Vodafone Portugal
+130.185.87.123:587:simplefi.pt:Almouroltec Servicos De Informatica E Internet LDA
+85.246.141.124:25:telepac.pt:PT Comunicacoes S.A.
+94.62.66.142:587:vodafone.pt:Vodafone Portugal
+80.172.233.141:587:ibercup.com:Claranet Portugal
+81.84.234.82:25:bacelar.pt:NOS COMUNICACOES S.A
+94.46.15.97:587:clever3dstudio.com:Almouroltec Servicos De Informatica E Internet LDA
+88.157.205.10:25:azevedos-sa.com:NOS COMUNICACOES S.A
+176.61.147.200:587:mimobox.pt:Flesk Telecom
+185.99.234.187:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.20.77:587:adlogic.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.65.98.149:587:ias.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+193.126.247.68:25:novis.pt:NOS COMUNICACOES, S.A.
+109.71.43.172:587:dpsolucoes.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.71.33.85:587:vodafone.pt:Vodafone Portugal
+94.46.170.70:587:leadershipbt.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.180.2:25:new-consulting.pt:PT Prime
+94.46.168.191:587:walkborder.com:Almouroltec Servicos De Informatica E Internet LDA
+185.11.166.121:587:wonderful.land:Dmns - Dominios
+194.65.98.249:587:moveismachado.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.28.182.170:587:nrv-norvia.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.169.67:587:engitagus.com:Almouroltec Servicos De Informatica E Internet LDA
+195.22.19.112:587:wv.pt:Clara.net Portugal
+188.93.230.223:587:ibername.com:Claranet
+94.46.23.8:587:alojadodetalhe.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.63.232.101:587:floponor.pt:AR TELECOM - Acessos e Redes de Telecomunicacoes
+130.185.84.51:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.63.236.22:587:gomaval.com:AR TELECOM - Acessos e Redes de Telecomunicacoes
+62.28.161.214:587:webside.pt:PT Prime
+88.157.65.226:25:ogboutsourcing.pt:NOS COMUNICACOES S.A
+130.185.84.79:587:esffl.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.126.173.59:587:gabinfor.org:Dominios
+94.46.164.243:587:gestplano.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.75:587:voidpersonal.com:Almouroltec Servicos De Informatica E Internet LDA
+80.172.227.43:587:wv.pt:Claranet Portugal
+185.83.251.69:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.46.170.138:587:facturalusa.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.136.161.224:587:utl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+130.185.87.85:587:opencircle.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.187.59:25:esegur.pt:PT Prime
+188.93.230.115:587:ibername.com:Claranet
+109.71.45.161:587:jacf.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.105:587:zoomdoit.pt:Almouroltec Servicos De Informatica E Internet LDA
+95.136.8.83:25:synclore.pt:Vodafone Portugal
+94.46.180.119:587:messagelands.com:Almouroltec Servicos De Informatica E Internet LDA
+80.172.230.99:587:dot2web.com:Claranet Portugal
+62.28.28.106:25:alvercapecas.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+185.83.251.223:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+188.93.230.125:587:goupbuzz.com:Claranet
+194.65.98.210:587:lusitaniavida.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.28.138.142:587:ferrol.pt:PT Prime
+188.93.227.36:587:ibername.com:Claranet
+109.71.44.208:587:mj-pecasauto.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.126.49.234:25:cm-vagos.pt:EUnet
+109.71.43.151:587:merkkuriodigital.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.120.133:587:fassiportugal.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.168.2:587:bastoseviriato.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.26.28:587:distribeauty.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.205.68.182:25:ciberdefesa.pt:NOS COMUNICACOES
+176.61.147.94:587:refreshbubbles.com:Flesk Telecom
+195.22.25.157:587:atelierlogico.net:Clara.net Portugal
+85.138.86.4:587:netcabo.pt:NOS COMUNICACOES S.A
+195.23.232.212:25:novis.pt:NOS COMUNICACOES
+94.46.181.105:587:symbioporto.org:Almouroltec Servicos De Informatica E Internet LDA
+94.46.165.24:587:aconfeitaria.pt:Almouroltec Servicos De Informatica E Internet LDA
+5.249.118.219:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+130.185.87.56:587:criarte.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.128.3:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+81.84.243.66:587:cartrack.pt:NOS Comunicacoes S.A.
+188.93.230.231:587:goupbuzz.pt:Claranet
+109.71.43.13:587:heartphone.pt:Almouroltec Servicos De Informatica E Internet LDA
+81.90.53.236:25:socem.pt:IP TELECOM, SERVICOS DE TELECOMUNICACOES S.A.
+94.126.173.68:587:spic-hosting.com:Dominios
+94.46.20.144:587:weblevel.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.212:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.207:587:nutristore.eu:Almouroltec Servicos De Informatica E Internet LDA
+195.23.36.46:25:xl.pt:NOS COMUNICACOES S.A
+193.126.245.75:587:novis.pt:NOS COMUNICACOES
+94.46.169.170:587:tplinkaniversario.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.37:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.162:587:webfarus.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.85.234:587:fullscreen.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.173:587:banco-best.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.69:587:bluemarketagency.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.184.91:25:byside.com:PT Prime
+195.23.71.11:587:novis.pt:NOS COMUNICACOES
+185.99.235.117:587:meninadesign.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.170.27:587:news-pcv.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.227.152:587:nkaonline.net:Claranet
+94.46.28.159:587:luxconcept.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.190:25:ibername.com:Claranet
+130.185.87.94:587:turismomilitar.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.149.26:587:b-online.pt:Flesk Telecom
+194.65.101.121:587:cap.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.28.84.59:25:cm-anadia.pt:PT Prime
+130.185.84.207:587:mbv-design.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.135.27:587:capservers.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.45.221:587:qvolegis.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.22.17.221:587:claranet.pt:Clara.net Portugal
+94.46.15.197:587:kinderklipz.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.135.39:587:buzinaservers.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.176:587:improxy.com:Almouroltec Servicos De Informatica E Internet LDA
+185.99.234.77:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+37.189.112.30:25:telepac.pt:PT Comunicacoes S.A.
+88.157.199.164:25:netcabo.pt:NOS COMUNICACOES S.A
+94.46.168.115:587:biglevel.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.152:587:it2all.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.182.1:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.253.66:587:wl-dns.com:Claranet Portugal
+213.58.132.181:587:eem.pt:Edinet/E3G
+62.28.4.115:587:recer.pt:PT Prime
+94.46.173.163:587:dogmashoes.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.20.60:25:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.45.49:587:webcolinas.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.93:587:allesignals.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.33:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.221.38.100:587:ciberserver.cloud:CiberConceito Informatica e Servicos Unipessoal, Lda
+195.23.69.236:25:novis.pt:NOS COMUNICACOES S.A.
+94.46.22.55:587:russiatours.ru:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.208:587:upgrade.co.ao:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.203:587:alba1server.com:Claranet
+80.172.230.59:587:dot2web.com:Claranet Portugal
+161.230.227.23:25:vodafone.pt:Vodafone Portugal
+109.71.43.114:587:notal.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.227.242:587:ibername.com:Claranet
+94.46.169.146:587:carobworld.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.103:587:massive-systems.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.117:587:inginfinitive.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.45.185:587:tecnoafia.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.221.36.93:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+185.83.250.193:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.46.164.79:587:drsite.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.90:587:citizenergy.eu:Almouroltec Servicos De Informatica E Internet LDA
+148.69.166.209:25:vodafone.pt:Vodafone Portugal
+176.61.147.102:587:efapel.pt:Flesk Telecom
+188.37.235.255:25:vodafone.pt:Vodafone Portugal
+94.46.169.159:587:cossartgordon.com:Almouroltec Servicos De Informatica E Internet LDA
+62.48.179.200:25:gpp.pt:PT Prime
+94.46.26.44:587:lcphones.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.43:587:w4research.com:Almouroltec Servicos De Informatica E Internet LDA
+94.23.78.254:587:fileserver.pw:OVH ISP
+87.103.13.66:587:mailbox.pt:Vodafone Portugal
+185.32.191.49:587:hobbysector.com:Sampling Line
+94.46.14.84:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.181.195:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.84:587:novalisg.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.51:587:guimaraes.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.148.42:25:netcabo.pt:NOS COMUNICACOES S.A
+94.46.27.23:587:wpwa.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.131:587:youngdirectmedia.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.131:587:promofitness.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.184.112:25:byside.com:PT Prime
+188.93.227.77:587:ibername.com:Claranet
+87.103.121.90:587:boino.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+62.28.222.201:25:publivez.com:PT Prime
+148.69.128.5:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+83.240.144.130:25:tellusm.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+88.157.228.42:25:byside.com:NOS COMUNICACOES
+94.46.181.151:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.221.34.46:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+94.46.14.181:587:toonswear.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.146:587:youngdirectmedia.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.240:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.137.55.84:587:up.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.181.88:587:rastilhorecords.com:Almouroltec Servicos De Informatica E Internet LDA
+194.65.116.124:25:tritextil.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+176.61.146.165:587:ibername.com:Dominios
+62.48.168.85:587:digiheart.pt:PT Prime
+130.185.87.7:587:vitorforte.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.23.113.76:25:perfumesecompanhia.pt:NOS COMUNICACOES S.A.
+193.136.173.7:25:ua.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+193.136.161.26:25:utl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.168.153:587:clubescuderiarampante.pt:Almouroltec Servicos De Informatica E Internet LDA
+87.103.15.46:25:vodafone.pt:Vodafone Portugal
+195.22.10.70:25:novaetapaworld.com:Clara.net Portugal
+94.46.14.52:587:ninelink.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.136.147.21:587:utl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.173.25:587:viptronica.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.187.121:587:siro.pt:PT Prime
+94.126.173.115:587:hashtag.pt:Dominios
+5.249.109.56:587:vodafone.pt:Vodafone Portugal
+176.61.148.47:587:vertis.pt:Claranet SOHO
+94.46.163.242:25:ptisp.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.181.37:25:ope.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+62.28.143.238:25:cm-mirandela.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.30.172:587:mcgad.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.83.251.73:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.60.21.26:25:vodafone.pt:Vodafone Portugal
+213.63.236.100:587:m2s.pt:AR TELECOM - Acessos e Redes de Telecomunicacoes
+212.55.181.234:25:cev.com.pt:MEO - Servicos De Comunicacoes E Multimedia S.A.
+130.185.87.192:587:wma.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.38.143.8:587:said.pt:Onitelecom - Infocomunicacoes
+94.46.181.94:587:almoceinapadaria.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.68:587:voidpersonal.com:Almouroltec Servicos De Informatica E Internet LDA
+62.48.184.235:587:oliveiradigital.net:PT Prime
+94.46.170.47:587:exponential.systems:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.161:587:moti.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.23.118:587:hlink.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.22.12.230:25:bilheteiraonline.com:Clara.net Portugal
+62.28.119.16:25:unisafe.pt:PT Prime
+94.46.175.141:587:century21.es:Almouroltec Servicos De Informatica E Internet LDA
+213.30.51.138:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.169.113:587:ganapremiosconbel.es:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.157:587:ibername.com:Claranet
+89.155.74.125:587:netcabo.pt:NOS Comunicacoes S.A.
+89.114.158.63:25:vodafone.pt:Vodafone Portugal
+94.46.169.128:587:florialis.com:Almouroltec Servicos De Informatica E Internet LDA
+213.205.69.57:25:novis.pt:Novis Telecom SA
+176.221.38.150:587:ciberserver.cloud:CiberConceito Informatica e Servicos Unipessoal, Lda
+176.221.34.111:587:sanahotels.com:CiberConceito Informatica e Servicos Unipessoal
+81.193.129.175:25:telepac.pt:PT Comunicacoes S.A
+62.28.72.236:25:konfronto.pt:PT Prime
+94.46.15.191:587:ondevamosjantar.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.24:587:publicacoesfacfil.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.23.112:587:criap.com:Almouroltec Servicos De Informatica E Internet LDA
+195.23.88.129:587:pjvlenterprises.com:NOS COMUNICACOES
+148.69.128.2:25:priberam.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+194.65.137.207:587:portocargo.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+89.114.212.244:25:vodafone.pt:Vodafone Portugal
+80.172.227.140:587:wv.pt:Claranet Portugal
+94.46.14.65:587:paginadigital2.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.100:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.224.98:25:jmmsroc.pt:PT Prime
+88.157.203.44:587:mpdelgada.pt:NOS COMUNICACOES S.A
+176.221.33.231:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+193.136.136.7:25:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+176.61.147.20:25:socimavis.com:Flesk Telecom
+94.46.135.37:25:norsider.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.182.46:587:telesystems.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.141:587:correioalentejo.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.167.116:587:gofoxit.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.46.72:587:ptempresas.pt:PT Prime
+109.71.44.188:587:giracas.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.175.53:587:servers.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.167.66:587:hcpro.pt:Almouroltec Servicos De Informatica E Internet LDA
+83.240.176.226:587:expandindustria.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.28.143.85:25:casapia.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+193.136.79.102:25:uportu.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.26.36:587:100mlstore.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.82:587:tetoonline.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.174.32:25:barquense.pt:Almouroltec Servicos De Informatica E Internet LDA
+212.13.41.85:587:g9telecom.pt:Nortenet - Sistemas de Comunicacao SA.
+148.69.117.214:25:sotecnogaio.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+185.219.131.236:587:shastrioptics.com:Xervers, Unipessoal Lda
+176.61.147.244:587:x-logix.pt:Flesk Telecom
+94.46.25.154:587:wordmaker.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.135.214:587:ordemdosarquitectos.org:Almouroltec Servicos De Informatica E Internet LDA
+194.65.99.22:25:cercica.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.22.33:587:certipack.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.107:587:teksaraz.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.19:587:ibername.com:Claranet
+94.46.28.147:587:nac-homelibya.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.71:587:escola31janeiro.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.58.173.116:25:first.pt:ONITELECOM - INFOCOMUNICACOES, S.A.
+85.243.112.202:25:telepac.pt:PT Comunicacoes S.A
+94.46.180.71:587:voidpersonal.com:Almouroltec Servicos De Informatica E Internet LDA
+185.83.251.12:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+37.189.147.31:25:telepac.pt:PT Comunicacoes S.A.
+87.103.124.218:587:eacampos.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.126.172.48:587:transglobal.pt:Dominios
+94.46.164.97:587:escapadinhas.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.113.170:25:gaiurb.pt:PT Prime
+188.93.227.133:587:tropihoreca.com:Claranet
+83.132.152.200:25:netcabo.pt:NOS Comunicacoes S.A.
+83.240.170.122:587:nunix-it.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+193.137.231.248:587:ipca.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+188.93.229.80:587:wl-dns.com:Claranet
+109.71.45.223:587:qstopdental.com:Almouroltec Servicos De Informatica E Internet LDA
+88.157.220.214:25:alco.pt:NOS COMUNICACOES
+94.46.167.34:587:cvfire.com.cv:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.197:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.136.216.21:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.135.95:587:galpserver.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.71:587:virtualservers.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.181.153:587:tecnicromo.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.14:587:cocktailteam.net:Almouroltec Servicos De Informatica E Internet LDA
+176.221.38.116:587:decimal.pt:CiberConceito Informatica e Servicos Unipessoal, Lda
+62.28.122.78:25:diexp.pt:PT Prime
+185.38.142.39:587:keytime.sa:dotsi - Solucoes Internet
+46.189.179.105:587:vodafone.pt:Vodafone Portugal
+94.62.125.177:587:vodafone.pt:Vodafone Portugal
+95.93.58.33:587:netcabo.pt:NOS COMUNICACOES S.A
+94.23.78.141:25:ip-94-23-78.eu:OVH ISP
+109.71.45.172:587:ouroestrela.com:Almouroltec Servicos De Informatica E Internet LDA
+94.126.172.53:587:retailprice.pt:Dominios
+94.46.173.208:587:carregadoresgalp.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.227.121:587:ibername.com:Claranet
+176.61.146.87:25:mediaminds.eu:Dominios
+89.152.175.81:587:netcabo.pt:NOS COMUNICACOES S.A
+130.185.84.184:587:happily-divided.com:Almouroltec Servicos De Informatica E Internet LDA
+195.22.24.130:25:memoriavisual.net:Claranet Limited
+80.172.255.218:587:dnspt.net:Claranet Portugal
+188.93.230.21:587:nka.pt:Claranet
+94.46.180.47:587:perfectloom.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.14.61:587:anmp.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.180.95:587:allesignals.com:Almouroltec Servicos De Informatica E Internet LDA
+176.61.150.171:587:lasenia.pt:Claranet SOHO
+188.93.231.62:587:ibername.com:Claranet
+62.48.241.38:587:wallfuture.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.180.141:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.166.92:587:infmaster.com.br:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.60:587:irradiare.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.165.39:587:patus.co:Almouroltec Servicos De Informatica E Internet LDA
+193.136.97.2:25:utl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+185.113.142.213:25:jpressonline.net:I4W - Web Solutions
+94.46.178.20:587:angryventures.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.144:25:mestreclique.pt:Claranet
+94.46.175.201:587:ruipena.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.117.9.1:25:ul.pt:University of Lisbon, Faculties
+195.23.106.244:25:novis.pt:NOS COMUNICACOES S.A.
+193.136.11.134:25:uminho.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.22.49:587:casulosoftware.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.11.167.212:587:sbg-si.com:DMNS - DOMINIOS, S.A
+81.90.60.178:25:refertelecom.pt:IP TELECOM, SERVICOS DE TELECOMUNICACOES S.A
+81.90.54.226:587:refertelecom.pt:IP TELECOM, SERVICOS DE TELECOMUNICACOES S.A.
+94.60.144.12:25:vodafone.pt:Vodafone Portugal
+94.46.23.59:587:edudigital.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.233.212:587:netcabo.pt:NOS COMUNICACOES
+94.46.181.95:587:diamantesoft.com:Almouroltec Servicos De Informatica E Internet LDA
+193.126.80.118:25:novis.pt:EUnet
+148.69.123.98:25:setronix.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.179.24:587:projecttime.pt:Almouroltec Servicos De Informatica E Internet LDA
+5.249.116.40:587:browser.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+176.61.148.30:587:microeuropa.pt:Claranet SOHO
+94.46.30.156:587:mascarascertificadas.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.245.38:587:industriallaborum.com:PT Prime
+94.46.168.130:587:tecmatic.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.142:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.128.4:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+185.99.235.25:25:vantageden.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.179.8:587:artgalaxie.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.21.25:587:naturalcarnes.com:Almouroltec Servicos De Informatica E Internet LDA
+194.65.101.105:587:asfac.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+176.61.147.136:587:w4msolutions.com:Flesk Telecom
+85.139.247.44:25:cardigos.com:NOS COMUNICACOES S.A
+94.46.169.89:587:wase.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.137.79.6:25:estescoimbra.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.14.149:587:circulodograal.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.196.137:25:netcabo.pt:NOS COMUNICACOES S.A
+81.84.248.202:587:netcabo.pt:NOS Comunicacoes S.A.
+148.69.129.9:587:municipioamares.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+62.28.221.50:25:cm-vpaguiar.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.175.78:587:cnm.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.23.143:587:maidot.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.175.222:587:onlinebiz.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.190.122:25:vodafone.pt:Vodafone Portugal
+109.71.41.136:587:alemdasideias.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.101:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.22.14.183:587:1000cloud.net:Clara.net Portugal
+195.23.156.198:25:afiuza.synology.me:NOS COMUNICACOES S.A.
+130.185.84.190:587:microapoli.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.227.180:587:ibername.com:Claranet
+62.28.11.120:25:pestana.com:PT Prime
+213.58.140.204:587:sinova.pt:ONITELECOM - INFOCOMUNICACOES, S.A.
+94.46.169.217:587:tukmadeiracitytours.com:Almouroltec Servicos De Informatica E Internet LDA
+213.205.69.133:25:novis.pt:NOS COMUNICACOES
+130.185.87.104:587:servk.com:Almouroltec Servicos De Informatica E Internet LDA
+193.126.27.66:587:nos.pt:EUnet
+193.137.179.82:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+193.137.79.169:25:ipc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+148.69.183.33:25:confrasilvas.com:Vodafone Portugal - Communicacoes Pessoais S.A.
+109.71.44.214:587:afatv.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.126.171.104:587:travelworks.pt:DMNS - DOMINIOS, S.A
+88.157.163.150:587:polismar.pt:NOS COMUNICACOES S.A
+194.65.17.1:25:cm-olhao.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+130.185.87.136:587:titus.biz:Almouroltec Servicos De Informatica E Internet LDA
+185.83.251.63:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.46.181.225:587:incograf.com:Almouroltec Servicos De Informatica E Internet LDA
+185.113.143.44:25:anoxweb.com:I4W - Web Solutions
+185.113.142.212:25:suzurannokai.com:I4W - Web Solutions
+94.46.20.65:587:mania4-is.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.24:587:viptronica.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.181.163:587:jf-tojal.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.187:587:pedromoreira.org:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.196:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+212.13.41.71:587:g9telecom.pt:Nortenet - Sistemas de Comunicacao SA.
+194.65.137.20:587:mundotextil.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+130.185.85.235:587:decskill.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.129.58:587:castelhano-ferreira.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.15.67:587:searaproducoesaudiovisuais.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.166.37:587:riopele.pt:PT Prime
+148.69.121.108:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.170.126:587:virtualservers.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.220:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.229.242:25:tecnologiasimaginadas.com:Claranet
+130.185.84.60:587:leandromiranda.com:Almouroltec Servicos De Informatica E Internet LDA
+176.61.148.86:587:w4msolutions.com:Claranet SOHO
+193.126.49.116:25:novis.pt:EUnet
+94.46.171.182:587:techservers.eu:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.104:587:nuno2costa.com:Almouroltec Servicos De Informatica E Internet LDA
+148.71.59.147:587:vodafone.pt:Vodafone Portugal
+176.61.150.61:587:mcunha.net:Claranet SOHO
+195.23.106.245:25:novis.pt:NOS COMUNICACOES S.A.
+176.61.147.101:587:efapel.pt:Flesk Telecom
+94.46.181.118:587:teclahosting.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.167.29:587:signed.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.250.25.248:25:telepac.pt:PT Comunicacoes S.A
+130.185.87.220:587:nportugal.info:Almouroltec Servicos De Informatica E Internet LDA
+87.103.12.89:25:livingdata.pt:Vodafone Portugal
+94.126.173.116:587:hfhotels.com:Dominios
+130.185.84.222:587:parceirodigital.net:Almouroltec Servicos De Informatica E Internet LDA
+213.58.182.59:587:mailon.zapto.org:ONITELECOM
+193.136.11.204:587:ccg.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+62.48.213.46:25:peoplesphone.pt:PT Prime
+62.48.145.2:25:mailpac.pt:PT Prime
+94.46.30.65:587:artevasi.pt:Almouroltec Servicos De Informatica E Internet LDA
+85.139.249.51:25:multiborracha.com:NOS COMUNICACOES S.A
+62.28.165.238:587:fdiportugal.pt:PT Prime
+89.152.248.82:587:norcep.pt:NOS Comunicacoes S.A.
+193.137.36.85:25:up.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+195.23.69.238:25:novis.pt:NOS COMUNICACOES S.A.
+94.46.173.196:587:alvalademobile.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.15.23.84:25:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.126.90.66:25:detailshotels.com:EUnet
+185.99.235.107:587:essentialhome.eu:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.15.211:587:evacadima.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.156:587:intg.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.40:587:geekstation.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.136:587:danielaoliveira.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.33:587:ddbc.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.99.235.29:25:vantageden.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+188.93.231.195:587:via-annelaris.com:Claranet
+81.90.62.102:587:iptelecom.pt:Refertelecom AS29003
+94.46.181.4:587:hub.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.252.166:587:wp-ns.com:Claranet Limited
+81.90.59.101:25:iptelecom.pt:Refertelecom AS29003
+5.206.227.6:2525:227.6:BlazingFast LLC
+193.136.216.106:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.15.90:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.118.115.41:587:pro1-servers.com:Dream Fusion - IT Services Lda
+88.157.228.40:25:byside.com:NOS COMUNICACOES
+88.157.69.34:587:enes.pt:NOS COMUNICACOES S.A
+94.46.30.71:587:exxa.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.126.90.158:25:hotellamego.pt:EUnet
+94.46.181.73:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.116:587:i-techinformatica.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.23.248:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.60:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.113:587:btoc.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.171.18:587:zzubit.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.86.123:587:corporatemail.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.73:587:casa-qui.pt:Claranet
+83.240.145.102:587:rubisenergia.pt:PT Prime
+176.61.146.125:587:webteer.com:Dominios
+176.61.150.190:587:ctp.org.pt:Claranet SOHO
+176.221.36.96:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+62.28.175.94:25:webside.pt:PT Prime
+94.61.233.14:25:nunoecastro.pt:Vodafone Portugal
+94.46.169.213:587:imaginasoft.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.126.251.167:25:novis.pt:NOS COMUNICACOES, S.A.
+148.69.79.36:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+80.172.252.116:587:wp-ns.com:Claranet Limited
+176.79.157.53:587:telepac.pt:PT Comunicacoes S.A.
+212.13.41.66:587:g9telecom.pt:Nortenet - Sistemas de Comunicacao SA.
+195.22.8.77:587:wv.pt:Clara.net Portugal
+62.28.165.142:25:webside.pt:PT Prime
+148.69.79.66:25:rodiro.com:Vodafone Portugal - Communicacoes Pessoais S.A.
+148.69.165.222:25:vodafone.pt:Vodafone Portugal
+62.28.225.41:25:arsopi.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.169.221:587:seamegroup.pt:Almouroltec Servicos De Informatica E Internet LDA
+89.109.115.114:25:quinta-mirabela.com:Cabo Tv Madeirense S.A
+193.137.135.131:25:esel.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+193.136.216.70:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+144.64.7.69:25:telepac.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+81.84.246.187:587:alfa-beta.pt:NOS Comunicacoes S.A.
+88.157.99.223:25:netcabo.pt:NOS COMUNICACOES S.A
+130.185.84.29:587:serroalto.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.131:587:institutocriap.com:Almouroltec Servicos De Informatica E Internet LDA
+195.23.59.149:25:dgal.pt:NOS COMUNICACOES
+94.126.171.167:587:ycon.pt:DMNS - DOMINIOS, S.A
+185.113.142.198:25:harritt.net:I4W - Web Solutions
+94.46.30.53:587:ecoescolhas.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.83.251.33:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.46.141.238:25:1-hostingservice.com:Miguel Goncalves Unipessoal LDA
+185.83.251.129:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.46.14.87:587:nunomatoucas.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.106:587:coach-helper.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.141:587:hostingpepper.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.182.42:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.169:587:secpixel.com:Almouroltec Servicos De Informatica E Internet LDA
+185.113.141.243:25:varietypen.com:I4W - Web Solutions
+94.46.30.212:587:hcahosting.com:Almouroltec Servicos De Informatica E Internet LDA
+148.69.162.173:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+109.71.46.154:25:as24768.net:Almouroltec Servicos De Informatica E Internet LDA
+148.69.164.70:25:vodafone.pt:Vodafone Portugal
+94.46.170.77:587:fitgestpro.pt:Almouroltec Servicos De Informatica E Internet LDA
+95.136.8.216:587:vbmseguros.pt:Vodafone Portugal
+85.247.62.34:25:telepac.pt:PT Comunicacoes S.A.
+176.61.148.29:587:microeuropa.pt:Claranet SOHO
+94.46.30.71:587:exxa.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.23.78.3:587:amuniciya-dlya-dressirovki-sobak.ru:OVH ISP
+94.46.168.96:587:atelieralves.com:Almouroltec Servicos De Informatica E Internet LDA
+195.23.69.227:25:novis.pt:NOS COMUNICACOES S.A.
+94.126.171.157:587:ied-web.com:DMNS - DOMINIOS, S.A
+94.46.14.140:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+89.153.159.92:25:netcabo.pt:NOS COMUNICACOES S.A
+62.28.225.227:587:ambitermo.com:PT Prime
+109.71.43.204:587:inginfinitive.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.108.66:587:netcabo.pt:NOS COMUNICACOES S.A
+94.46.164.251:587:qualiram.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.172:587:ciberseguro.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.182:587:livetech.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.136.192.126:25:fccn.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+130.185.84.78:587:transportesmoura.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.48.175.115:587:cm-ourem.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+176.61.150.108:587:ibername.com:Claranet SOHO
+148.69.79.194:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+194.65.5.33:25:sapo.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+62.28.150.29:2525:cm-valedecambra.pt:PT Prime
+130.185.87.151:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.251:587:portugal-realty.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.15:587:logipec.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.138:587:ibername.com:Claranet
+94.46.25.148:587:ukbeta.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.182.40:587:pastcampaign.com:Almouroltec Servicos De Informatica E Internet LDA
+178.166.13.143:587:vodafone.pt:Vodafone Portugal
+94.46.22.21:587:critecng.com:Almouroltec Servicos De Informatica E Internet LDA
+194.117.42.38:587:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia
+212.13.43.123:25:ferrai.pt:Nortenet - Sistemas de Comunicacao SA.
+94.46.25.179:587:wizzic.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.124:587:gvk.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.234.16:587:maravilhasdeportugal.info:dotsi - Solucoes Internet
+88.157.199.161:25:cm-almada.pt:NOS COMUNICACOES S.A
+94.46.168.42:587:vfconsult.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.46.98:25:crmmelom.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.23:587:darereutilizar.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.175.126:587:oklobster.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.162:587:inginfinitive.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.115:587:sttm.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.136.216.66:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+62.28.152.39:25:cm-armamar.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.23.129:587:laskasas.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.142:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.169:587:susanacunha.com:Claranet
+94.46.168.196:587:digital-server.com:Almouroltec Servicos De Informatica E Internet LDA
+195.22.19.109:587:wv.pt:Clara.net Portugal
+109.71.43.146:587:jlfsousa.com:Almouroltec Servicos De Informatica E Internet LDA
+188.37.42.217:587:vodafone.pt:Vodafone Portugal
+94.46.30.183:587:pulapula.pt:Almouroltec Servicos De Informatica E Internet LDA
+161.230.197.129:25:futurcargo.com:Vodafone Portugal
+94.46.181.40:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.117.5:587:microlopes.pt:PT Prime
+185.99.234.65:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+89.114.158.22:25:vodafone.pt:Vodafone Portugal
+213.63.233.45:25:moreit.pt:AR TELECOM - Acessos e Redes de Telecomunicacoes
+94.46.182.57:587:pastcampaign.com:Almouroltec Servicos De Informatica E Internet LDA
+194.210.119.15:587:lip.pt:Fundacao para a Ciencia e a Tecnologia
+109.71.47.156:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.47.67:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.123:587:ibername.com:Claranet
+109.71.43.108:587:omnidea.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.152:587:mapetour.com:Almouroltec Servicos De Informatica E Internet LDA
+193.137.55.45:25:up.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+185.118.115.118:587:samsys.net:Dream Fusion - IT Services Lda
+62.48.148.202:25:cm-vnbarquinha.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.168.79:587:afonsovestuario.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.35:587:perfectloom.com:Almouroltec Servicos De Informatica E Internet LDA
+194.79.89.203:25:novis.pt:NOS COMUNICACOES S.A.
+62.28.184.103:25:byside.com:PT Prime
+148.69.114.84:587:movex.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+62.28.190.86:25:zomemail.com:PT Prime
+94.126.172.147:587:timelol.com:Dominios
+5.249.124.17:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.181.11:587:reciclinfor.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.45.218:587:herdadeamendoasdoces.com:Almouroltec Servicos De Informatica E Internet LDA
+194.65.55.121:25:imoguia.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+62.48.227.164:25:sici93.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+109.71.43.19:587:nsa.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.122:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.48.250.50:25:webside.pt:PT Prime
+188.93.230.42:587:ibername.com:Claranet
+94.46.170.122:587:constantcircle.co:Almouroltec Servicos De Informatica E Internet LDA
+89.26.241.215:587:serverhs.org:ONITELECOM
+185.99.234.55:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.168.187:587:rdl.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.146.84:587:mascarilha.pt:Dominios
+94.46.164.35:587:handsupchildren.org:Almouroltec Servicos De Informatica E Internet LDA
+213.228.191.230:25:netvisao.pt:Nowo Communications
+185.113.142.49:587:maskcloud.net:I4W - Web Solutions
+89.115.26.167:587:vodafone.pt:Vodafone Portugal
+89.153.225.215:587:netcabo.pt:NOS Comunicacoes S.A.
+188.93.230.248:587:ibername.com:Claranet
+94.46.182.45:587:pastcampaign.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.171.66:587:allcan.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.83:587:casa-sg.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.50:587:logrise.pt:Almouroltec Servicos De Informatica E Internet LDA
+87.103.125.99:587:franklimprata.com:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.165.165:587:ezequielmartinslda.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.210:587:altadensidade.com:Almouroltec Servicos De Informatica E Internet LDA
+213.30.23.134:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+109.71.45.201:587:iservicesapps.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.23.32.149:587:ufp.pt:NOS COMUNICACOES S.A.
+94.46.15.141:587:digitalxperience.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.48.212.89:587:office.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+194.38.143.25:25:said.pt:Onitelecom - Infocomunicacoes
+94.46.135.45:587:grupoyour.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.61:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.48.231.134:587:office.com:PT Prime
+194.65.31.18:587:pmservidores.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+148.69.77.21:587:aleluia.pt:Vodafone Portugal
+94.126.172.22:587:isell.pt:Dominios
+109.71.43.28:587:graficasobreirense.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.129:587:b-training.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.33:587:publisign.net:Almouroltec Servicos De Informatica E Internet LDA
+87.103.14.81:25:4d6box.com:Vodafone Portugal
+62.28.248.198:587:pragosa.pt:PT Prime
+193.136.36.125:587:up.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.15.81:587:l2.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.167.236:587:lavinci.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.37:587:alojamentopt.net:Almouroltec Servicos De Informatica E Internet LDA
+94.61.175.195:587:vodafone.pt:Vodafone Portugal
+94.46.165.52:587:novexa.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.184.101:25:byside.com:PT Prime
+130.185.84.111:587:hansolutions.com:Almouroltec Servicos De Informatica E Internet LDA
+148.69.132.62:587:vodafone.pt:Vodafone Portugal
+94.46.168.212:587:camlo.co:Almouroltec Servicos De Informatica E Internet LDA
+176.221.35.24:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+195.23.69.129:25:spautores.pt:NOS COMUNICACOES S.A
+83.240.180.55:25:cetelem.pt:PT Prime
+94.46.15.207:587:hmb-hotels.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.132:587:itprohosting.net:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.55:587:pmvs.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.70:587:ouritec.pt:Almouroltec Servicos De Informatica E Internet LDA
+93.108.157.59:587:vodafone.pt:Vodafone Portugal
+185.11.166.147:25:tirenet.biz:DMNS - DOMINIOS, S.A
+176.221.36.94:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+213.30.28.70:587:machrent.pt:Vodafone Portugal
+130.185.87.160:587:publinetpt.com:Almouroltec Servicos De Informatica E Internet LDA
+212.18.163.144:25:igac.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+62.28.188.230:25:domcarloshoteis.com:PT Prime
+176.61.148.102:587:megautoria.pt:Claranet SOHO
+94.46.170.63:587:ricardo-barbosa.com:Almouroltec Servicos De Informatica E Internet LDA
+62.48.198.125:587:lanidor.com:PT Prime
+94.46.27.29:587:nuvem.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.185:587:radio-covilha.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.227.197:587:wv.pt:Claranet Portugal
+130.185.87.112:587:metaveiro.com:Almouroltec Servicos De Informatica E Internet LDA
+5.249.109.196:25:vodafone.pt:Vodafone Portugal
+130.185.87.125:587:mardearhotels.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.20.106:587:onvirtualgym.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.251.250:25:1-hostingservice.com:Miguel Goncalves Unipessoal LDA
+62.48.198.124:587:lanidor.com:PT Prime
+194.65.121.13:25:for-mar.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+176.61.148.21:587:exequator.pt:Claranet SOHO
+94.46.181.194:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.28:587:albertooculista.com:Almouroltec Servicos De Informatica E Internet LDA
+195.23.30.157:25:compta.pt:NOS COMUNICACOES S.A.
+193.136.215.114:25:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.167.210:587:seeco-molds.com:Almouroltec Servicos De Informatica E Internet LDA
+185.118.115.216:587:made2web.com:Dream Fusion - IT Services
+130.185.87.48:587:colgatefeednews.com:Almouroltec Servicos De Informatica E Internet LDA
+176.61.147.32:587:lmam-management.pt:Flesk Telecom
+83.240.169.54:587:woofabrics.pt:MEO - Servicos De Comunicacoes E Multimedia S.A.
+109.71.43.234:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.38.132.122:25:cm-fronteira.pt:ONITELECOM - INFOCOMUNICACOES, S.A.
+213.58.147.162:25:bpp.pt:ONITELECOM IP Address
+193.136.216.68:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+213.22.110.130:25:netcabo.pt:NOS Comunicacoes S.A.
+109.71.46.88:25:as24768.net:Almouroltec Servicos De Informatica E Internet LDA
+89.26.241.225:587:serverhs.org:ONITELECOM
+94.46.181.41:587:idealbuys.net:Almouroltec Servicos De Informatica E Internet LDA
+176.61.150.145:587:moedas.pt:Claranet SOHO
+195.22.19.196:587:wp-ns.com:Claranet Limited
+94.46.170.174:587:tecwelt.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.13:587:ibername.com:Claranet
+94.46.22.149:587:provider.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.103:587:alownetworks.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.133.103:587:dab.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+212.13.41.241:587:radioaltominho.pt:Nortenet - Sistemas de Comunicacao SA.
+80.172.227.21:587:wv.pt:Claranet Portugal
+62.48.218.2:25:cm-macao.pt:PT Prime
+213.30.47.18:587:marquessoares.pt:Vodafone Portugal
+94.46.25.14:587:ipopi.org:Almouroltec Servicos De Informatica E Internet LDA
+5.206.227.109:25:quadrifoglioo.com:BlazingFast LLC
+195.22.19.108:587:wv.pt:Clara.net Portugal
+212.55.154.36:25:sapo.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+94.46.164.72:587:mclgrafic.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.23:587:jsl-online.com:Almouroltec Servicos De Informatica E Internet LDA
+194.38.133.162:587:maquinadigital.net:ONITELECOM - INFOCOMUNICACOES, S.A.
+94.46.169.133:587:visitmachico.com:Almouroltec Servicos De Informatica E Internet LDA
+185.113.142.199:25:pestuz.com:I4W - Web Solutions
+94.46.30.48:587:farmaoli.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.255.230:587:widecloud.pt:Claranet Portugal
+130.185.87.227:587:sharkmedia.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.150.181:587:hotgas.pt:Claranet SOHO
+88.157.233.66:25:thandavantu.com:NOS COMUNICACOES
+148.69.79.34:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+62.28.56.188:587:acin.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.169.147:587:madeiralimo.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.145:587:virtualservers.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.221.34.180:587:acidados.net:CiberConceito Informatica e Servicos Unipessoal
+94.46.22.97:587:thi.solutions:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.25:587:alojamentosnet4.com:Almouroltec Servicos De Informatica E Internet LDA
+88.157.228.130:587:netcabo.pt:NOS COMUNICACOES
+62.28.184.102:25:byside.com:PT Prime
+109.71.43.58:587:agrorecta.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.61:587:liga-te.org:Claranet
+5.249.116.38:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+193.137.77.233:587:esenf.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.170.134:587:smart-tls.co.ao:Almouroltec Servicos De Informatica E Internet LDA
+94.46.23.243:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.99.235.118:587:circu.net:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+185.113.142.200:25:moddog.net:I4W - Web Solutions
+94.46.169.199:587:energica.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.232.115:587:cm-arganil.pt:PT Prime
+80.172.227.130:587:wv.pt:Claranet Portugal
+94.46.180.81:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.181.182:587:redewebdigital.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.184.109:25:byside.com:PT Prime
+194.38.135.183:587:igrejamana.com:Onitelecom - Infocomunicacoes
+109.71.47.157:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.165.54:587:colourinvasion.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.185:587:casotasecompanhia.pt:Almouroltec Servicos De Informatica E Internet LDA
+89.153.32.154:25:netcabo.pt:TVCABO-Portugal
+194.38.137.234:587:centrality.pt:ONITELECOM - INFOCOMUNICACOES, S.A.
+193.136.232.97:25:uma.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+176.61.150.150:587:alba3server.com:Claranet SOHO
+94.46.180.121:587:wevolved.com:Almouroltec Servicos De Informatica E Internet LDA
+81.193.85.7:25:telepac.pt:PT Comunicacoes S.A
+94.46.168.19:587:seguemateria.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.175.127:587:oklobster.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.136.198:25:circuito-estoril.pt:PT Prime
+195.23.106.242:25:novis.pt:NOS COMUNICACOES S.A.
+148.69.185.178:25:fund-afid.org.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.135.167:587:xcloudserver.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.237:587:webrand.agency:Almouroltec Servicos De Informatica E Internet LDA
+144.21.57.193:587:bowdit.ch:Oracle Corporation
+212.18.176.228:25:ivv.gov.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+148.69.128.147:25:relacre.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+80.172.255.106:587:widepanel.net:Claranet Portugal
+94.46.141.234:25:1-hostingservice.com:Miguel Goncalves Unipessoal LDA
+195.22.25.142:587:atelierlogico.net:Clara.net Portugal
+94.46.135.86:587:fpp.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.171.206:587:quad-systems.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.191:587:wedev.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.30.51.144:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+193.136.66.4:587:ubi.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.25.188:587:hamiltonconte.com:Almouroltec Servicos De Informatica E Internet LDA
+193.136.96.99:25:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+212.18.181.94:25:fiel.pt:Vodafone Portugal
+185.83.251.4:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.46.25.152:587:activos24.com:Almouroltec Servicos De Informatica E Internet LDA
+88.157.193.149:587:ucoip.net:NOS COMUNICACOES S.A
+188.93.227.84:587:ibername.com:Claranet
+109.71.42.118:587:opaco.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.126.27.65:587:nos.pt:EUnet
+94.46.167.204:587:graficonde.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.38:587:cenate.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.164.111:587:sabersemlimites.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.23:587:lagosinnguesthouse.com:Almouroltec Servicos De Informatica E Internet LDA
+193.126.248.43:25:novis.pt:NOS COMUNICACOES, S.A.
+94.46.175.46:587:mainservice.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.146.212.52:587:egttechnology.eu:Onitelecom - Infocomunicacoes
+80.172.255.50:587:dnspt.net:Claranet Portugal
+94.46.141.231:25:1-hostingservice.com:Miguel Goncalves Unipessoal LDA
+193.126.29.217:25:digitalwind.pt:EUnet
+94.46.169.50:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.251.84:587:eutelsatmadeira.pt:PT Prime
+185.83.250.127:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+176.221.36.92:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+94.46.180.41:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.4:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.23.42.147:25:tad.pt:NOS COMUNICACOES
+176.78.17.67:587:telepac.pt:PT Comunicacoes S.A.
+2.83.133.34:25:telepac.pt:PT Comunicacoes S.A
+176.61.147.219:587:brainit-server.com:Flesk Telecom
+213.63.186.118:587:routednspt.com:AR TELECOM - Acessos e Redes de Telecomunicacoes
+185.83.251.97:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.46.15.150:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.1:587:aeminiummultimedia.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.88:587:rclamego.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.227.27:587:wv.pt:Claranet Portugal
+94.46.14.60:587:rebortec.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.182.218:587:portel.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+88.157.239.210:25:bytalk.com:NOS COMUNICACOES
+94.46.28.133:25:ptisp.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.227.195:587:wv.pt:Claranet Portugal
+185.15.23.85:25:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.55:587:touaquitouai.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.196:587:alvalademobile.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.22.24.68:587:ibermetais.pt:Clara.net Portugal
+185.15.23.192:587:servers.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.126.49.9:25:bluebird.pt:EUnet
+62.28.35.22:25:sociedadesolicitadores.com:PT Prime
+149.90.135.78:25:vodafone.pt:Vodafone Portugal
+130.185.83.138:587:paginadigital.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.83.149:587:paginadigital.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.147.90:25:servidor.cegosdev:Flesk Telecom
+95.95.64.133:25:netcabo.pt:NOS Comunicacoes S.A.
+193.126.12.242:25:pecol.pt:NOS COMUNICACOES
+188.93.231.148:587:inovarmaistrasosmontes.pt:Claranet
+62.28.4.120:587:gresco.pt:PT Prime
+195.22.8.170:25:realtransfer.pt:Claranet Limited
+193.136.104.5:25:aprh.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+130.185.86.55:587:ventre.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.48.205.86:25:webside.pt:PT Prime
+62.28.35.70:587:aveicellular.pt:PT Prime
+109.71.43.54:587:alojaki.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.165.3:587:autopita.com:Almouroltec Servicos De Informatica E Internet LDA
+213.58.161.53:587:servidorhh.com:ONITELECOM IP Address
+212.18.175.142:587:vodafone.pt:Vodafone Portugal
+94.46.170.99:587:proexamweb.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.181.35:587:crangel.net:Almouroltec Servicos De Informatica E Internet LDA
+62.28.12.106:587:gaialar.pt:PT Prime
+193.136.216.69:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+109.71.41.81:587:allied.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.13.108.24:587:stop.pt:PT Comunicacoes S.A.
+80.172.227.205:587:wv.pt:Claranet Portugal
+94.126.171.168:587:ycon.pt:DMNS - DOMINIOS, S.A
+94.46.169.139:587:platinumsystems.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.233.70:25:azimutevirtual.com:NOS COMUNICACOES
+94.126.171.123:25:memoryaccess.pt:DMNS - DOMINIOS, S.A
+109.71.44.168:587:bowswimwear.com:Almouroltec Servicos De Informatica E Internet LDA
+176.61.147.14:587:sonorgas.pt:Flesk Telecom
+185.219.131.244:587:islandsofthepacific.com:Xervers, Unipessoal Lda
+94.46.15.52:587:choosethemoon.com:Almouroltec Servicos De Informatica E Internet LDA
+213.13.108.29:587:tecnimoplas.pt:PT Comunicacoes S.A.
+193.137.46.184:25:ips.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+185.83.250.159:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+193.136.116.36:25:unl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+80.172.227.175:587:wv.pt:Claranet Portugal
+213.58.141.172:2525:grafopel.pt:ONITELECOM
+130.185.84.109:587:instanta.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.137.214.3:587:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+194.65.101.203:587:pneuvita.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+185.51.94.144:587:cm-mondimdebasto.pt:BLU, S.A.
+94.46.163.208:587:groundcontrol.agency:Almouroltec Servicos De Informatica E Internet LDA
+81.84.252.220:25:netcabo.pt:NOS Comunicacoes S.A.
+213.13.108.30:587:fleximedia.pt:PT Comunicacoes S.A.
+80.172.252.74:587:wp-ns.com:Claranet Limited
+94.126.171.205:587:jellycode.pt:DMNS - DOMINIOS, S.A
+94.46.168.117:587:davidvinhos.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.51:587:willbe.co:Almouroltec Servicos De Informatica E Internet LDA
+213.13.26.147:25:meocloud.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.168.215:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.99.234.64:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.169.15:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+83.240.176.93:25:slm-castings.eu:PT Prime
+94.46.23.116:587:inoveonline.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.83.137:587:paginadigital.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.182:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.223:587:parfait.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.205.70.121:25:act.gov.pt:NOS COMUNICACOES
+85.246.159.205:587:telepac.pt:PT Comunicacoes S.A.
+193.136.116.4:25:unl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+130.185.84.92:587:algarve-video.com:Almouroltec Servicos De Informatica E Internet LDA
+79.168.114.174:587:netcabo.pt:NOS COMUNICACOES S.A
+185.83.251.113:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+130.185.87.163:587:lusodados.pt:Almouroltec Servicos De Informatica E Internet LDA
+85.138.57.248:587:netcabo.pt:NOS COMUNICACOES S.A
+89.26.241.207:587:serverhs.org:ONITELECOM
+194.65.101.233:587:knudsensuppliersportugal.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+185.113.141.220:587:maskcloud.net:I4W - Web Solutions
+94.46.135.109:587:busservers.com:Almouroltec Servicos De Informatica E Internet LDA
+185.83.250.225:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+109.71.44.187:587:hpartsmultimarcas.com:Almouroltec Servicos De Informatica E Internet LDA
+188.37.144.158:587:vodafone.pt:Vodafone Portugal
+88.157.135.66:25:realcompanhiavelha.pt:NOS COMUNICACOES S.A
+94.46.175.162:587:merckptserver1.com:Almouroltec Servicos De Informatica E Internet LDA
+193.137.78.90:587:isec.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+185.99.235.26:25:vantageden.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.48.148.182:25:klab.pt:PT Prime
+80.172.227.33:587:wv.pt:Claranet Portugal
+94.46.173.90:587:idonic.com:Almouroltec Servicos De Informatica E Internet LDA
+80.172.227.180:587:wv.pt:Claranet Portugal
+194.117.42.34:587:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia
+185.32.191.94:587:quintadigital.com:Sampling Line
+94.46.165.134:587:isic.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.184.118:25:byside.com:PT Prime
+85.242.67.124:25:telepac.pt:PT Comunicacoes S.A
+89.115.141.52:25:vodafone.pt:Vodafone Portugal
+176.61.147.98:587:salutempromissum.pt:Flesk Telecom
+130.185.84.112:587:gmsites.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.181.216:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+217.129.237.4:25:netvisao.pt:
+94.46.173.185:587:leonino.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.23.58.73:587:compete2020.gov.pt:NOS COMUNICACOES S.A.
+188.93.231.70:587:ibername.com:Claranet
+94.46.173.50:587:cirvalue.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.8:587:expertfile.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.251:587:medilogics.pt:Almouroltec Servicos De Informatica E Internet LDA
+95.136.10.123:25:factis.com:Vodafone Portugal
+176.221.34.163:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+94.23.78.86:587:hostserver.com.br:OVH ISP
+109.71.47.69:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.163.111:587:seedwebpage.com:Almouroltec Servicos De Informatica E Internet LDA
+193.136.195.249:587:ipb.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.168.83:587:rnc.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.23.246:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.73:587:switzer.pt:Almouroltec Servicos De Informatica E Internet LDA
+87.103.13.121:587:gapor-lda.pt:Vodafone Portugal
+85.246.226.21:25:telepac.pt:PT Comunicacoes S.A.
+78.130.37.156:25:optimus.pt:NOS COMUNICACOES S.A
+94.46.28.46:587:webzonesupport.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.241:587:naturalcarnes.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.26:587:keruweb.com:Almouroltec Servicos De Informatica E Internet LDA
+195.23.113.219:25:novis.pt:NOS COMUNICACOES S.A.
+94.46.179.17:587:connectserver.org:Almouroltec Servicos De Informatica E Internet LDA
+94.46.167.79:587:signed.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.186.6:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.168.205:587:corporatemail.pt:Almouroltec Servicos De Informatica E Internet LDA
+83.174.63.218:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.25.203:587:factplus.co.ao:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.94:587:growvox.com:Almouroltec Servicos De Informatica E Internet LDA
+194.79.68.102:25:novis.pt:NOS COMUNICACOES
+5.249.99.190:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+83.240.178.30:587:2007com.pt:PT Prime
+193.136.97.123:587:aefa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+213.190.194.196:25:netmadeira.com:NOS Madeira Comunicacoes S.A
+94.23.78.224:587:skydraft.pt:OVH ISP
+176.78.158.239:25:telepac.pt:PT Comunicacoes S.A.
+94.46.15.161:587:lapapacheco.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.113.143.25:25:tnatours.com:I4W - Web Solutions
+148.69.78.228:25:transportespardieiro.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+193.136.136.3:587:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+194.65.118.84:587:gestware.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.173.38:587:jornaldemafra.pt:Almouroltec Servicos De Informatica E Internet LDA
+85.247.22.29:587:telepac.pt:PT Comunicacoes S.A.
+94.46.21.118:25:eticadata.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.153:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.113.143.46:25:residencenetwork.com:I4W - Web Solutions
+213.30.51.136:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+82.155.132.211:25:telepac.pt:PT Comunicacoes S.A
+94.46.180.42:587:perfectloom.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.135.67:587:websecurity.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.44.188:587:cloudhost.farm:PT Prime
+62.48.166.148:587:markdata.com:PT Prime
+62.28.228.46:587:autorent.pt:PT Prime
+94.46.15.237:587:mca-grupo.com:Almouroltec Servicos De Informatica E Internet LDA
+176.61.146.83:587:mascarilha.pt:Dominios
+193.136.146.23:587:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+88.157.208.161:587:cm-montemorvelho.pt:NOS COMUNICACOES
+193.136.128.12:587:utl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.169.148:587:lanchesdosamigos.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.193:587:afia.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.113:587:ms-webhost.com:Almouroltec Servicos De Informatica E Internet LDA
+88.157.97.109:25:netcabo.pt:NOS COMUNICACOES S.A
+88.157.233.68:587:continentalhotels.cloud:NOS COMUNICACOES
+148.69.115.17:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+148.71.47.222:587:vodafone.pt:Vodafone Portugal
+94.46.168.23:587:portaisdeportugal.com:Almouroltec Servicos De Informatica E Internet LDA
+83.240.183.1:25:telecom.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.168.232:587:ciberking.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.255.232:587:widecloud.pt:Claranet Portugal
+130.185.87.16:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.133:587:solatlantico.cv:Almouroltec Servicos De Informatica E Internet LDA
+176.61.150.18:587:wibrido.com:Claranet SOHO
+109.71.43.107:587:262media.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.165.112:587:cmportugal.com:Almouroltec Servicos De Informatica E Internet LDA
+193.136.96.103:587:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+193.136.39.47:25:up.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.14.155:25:toonsdomain.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.164.180:587:verticeweb.net:Almouroltec Servicos De Informatica E Internet LDA
+62.48.166.137:587:twa.pt:PT Prime
+62.28.201.2:587:naveprinter.pt:PT Prime
+80.172.230.48:587:dot2web.com:Claranet Portugal
+193.126.224.145:587:novisnet.pt:NOS Comunicacoes S.A.
+185.118.115.116:587:samsys.net:Dream Fusion - IT Services Lda
+94.46.15.169:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.13.178.152:25:cin.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+82.154.116.25:587:telepac.pt:PT Comunicacoes S.A.
+94.46.175.184:587:topdata.pt:Almouroltec Servicos De Informatica E Internet LDA
+89.114.201.27:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+193.136.216.35:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.173.101:587:grupovendap.com:Almouroltec Servicos De Informatica E Internet LDA
+193.136.232.10:25:uma.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+213.205.69.227:25:novis.pt:Novis Telecom SA
+185.99.234.51:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+81.84.254.193:25:ervilhazul.pt:NOS Comunicacoes S.A.
+94.46.175.191:587:humantalent.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.89:587:allesignals.com:Almouroltec Servicos De Informatica E Internet LDA
+89.152.248.19:587:netcabo.pt:NOS Comunicacoes S.A.
+62.28.60.119:25:haitongib.com:PT Prime
+62.48.149.98:587:ptprime.net:PT Prime
+94.46.181.44:587:geologicsi.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.137.22.201:25:min-edu.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+2.82.96.82:587:telepac.pt:PT Comunicacoes S.A
+94.46.171.99:587:port.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.65:587:picreativestudio.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.225.131:25:cm-batalha.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+130.185.87.3:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.225.247:25:ascendi.pt:PT Prime
+62.28.4.109:25:cm-mertola.pt:PT Prime
+195.22.8.72:587:dnstarvos.com:Clara.net Portugal
+176.61.147.122:587:globais.pt:Flesk Telecom
+94.46.170.166:587:effect.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.116.198:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+185.118.115.119:587:jodel.pt:Dream Fusion - IT Services Lda
+130.185.86.118:587:campanhaemail.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.103.110:25:webside.pt:PT Prime
+87.103.114.205:25:micro-cortex.com:Vodafone Portugal
+213.30.21.138:25:crispimabreu.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+148.69.117.54:25:opticaestrela.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+195.23.238.109:587:anjoslourenco.pt:NOS COMUNICACOES
+212.13.41.83:587:g9telecom.pt:Nortenet - Sistemas de Comunicacao SA.
+188.250.72.153:587:telepac.pt:PT Comunicacoes S.A
+193.126.224.98:587:cm-mirandela.pt:NOS Comunicacoes S.A.
+94.46.25.111:587:simbiotic.net:Almouroltec Servicos De Informatica E Internet LDA
+94.126.172.111:25:valorcar.pt:Dominios
+185.99.235.21:25:havenscreens.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.170.21:587:smartfire.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.116.133:25:jaymedacosta.pt:PT Prime
+94.46.28.47:587:mafricentro.pt:Almouroltec Servicos De Informatica E Internet LDA
+85.139.241.170:25:netcabo.pt:NOS COMUNICACOES S.A
+195.22.11.103:587:overlink.pt:Clara.net Portugal
+188.93.231.50:25:rostos.pt:Claranet
+188.93.227.81:587:ibername.com:Claranet
+62.28.182.159:587:elpor.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.28.178.170:587:webside.pt:PT Prime
+193.136.96.18:25:utl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.168.12:587:webcomum.com:Almouroltec Servicos De Informatica E Internet LDA
+80.172.252.78:587:wp-ns.com:Claranet Limited
+94.46.180.113:587:messagelands.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.97:587:fajadospadres.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.182.32:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.177:587:leonino.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.157:587:topgeres.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.16:587:oern.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.136.96.95:25:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+193.136.205.88:587:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+185.113.143.24:25:erikfoss.com:I4W - Web Solutions
+130.185.87.238:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.18.42:25:eurogalva.pt:PT Prime
+213.13.108.21:587:leiriencontros.com:PT Comunicacoes S.A.
+94.46.182.41:587:pastcampaign.com:Almouroltec Servicos De Informatica E Internet LDA
+193.137.34.43:587:up.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+109.71.43.27:587:lucromundial.net:Almouroltec Servicos De Informatica E Internet LDA
+185.113.142.189:25:vitoteleo.com:I4W - Web Solutions
+62.28.61.238:587:promontorio.net:PT Prime
+5.206.227.91:587:tamnemail.in:BlazingFast LLC
+109.71.43.58:587:agrorecta.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.104:587:masterstrategy.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.23.7:587:alojadodetalhe.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.30.13.211:25:siscog.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+109.71.43.56:587:aroundthetree.eu:Almouroltec Servicos De Informatica E Internet LDA
+94.46.165.159:587:celeirointegral.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.162.174:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.30.126:587:hpdronesacademy.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.60:587:tanicpass.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.237:587:netmove.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.133.3:587:smartevolve.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.15.203:587:scment.org:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.117:587:clickprofessor.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.71.62:587:goodlife.pt:PT Prime
+176.61.147.33:587:lmam-management.pt:Flesk Telecom
+185.113.143.36:25:intautobuy.com:I4W - Web Solutions
+62.48.149.194:25:ptprime.net:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+188.93.227.151:587:albaserver.com:Claranet
+213.58.172.132:25:blandy.com:ONITELECOM IP Address
+94.46.169.201:587:antonioamadeu.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.76:587:ciclovicioso.com:Almouroltec Servicos De Informatica E Internet LDA
+176.61.147.250:587:quotagest.com:Flesk Telecom
+213.13.108.6:587:fleximedia.pt:PT Comunicacoes S.A.
+62.28.150.26:2525:cm-valedecambra.pt:PT Prime
+94.46.15.160:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.36:587:bcnsistemas.pt:Almouroltec Servicos De Informatica E Internet LDA
+81.90.54.132:587:refertelecom.pt:IP TELECOM, SERVICOS DE TELECOMUNICACOES S.A.
+176.221.36.80:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+94.46.23.18:587:quintadastilias.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.202:25:ibername.com:Claranet
+94.46.168.66:587:ptbizit.com:Almouroltec Servicos De Informatica E Internet LDA
+83.174.44.168:25:cp.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+83.240.145.40:2525:isaenergy.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+193.136.98.22:587:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+185.118.115.44:587:wearemateria.com:Dream Fusion - IT Services Lda
+5.249.124.20:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.182.47:587:pastcampaign.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.170:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+89.152.241.122:587:siscad.pt:NOS Comunicacoes S.A.
+62.48.171.194:587:vanpro.pt:PT Prime
+94.46.22.145:587:ithcloud.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.182.39:587:pastcampaign.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.165.231:587:timeoutmarket.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.242:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.252.67:587:wp-ns.com:Claranet Limited
+130.185.84.189:587:woodzi.com:Almouroltec Servicos De Informatica E Internet LDA
+95.136.9.114:587:plastifa.pt:Vodafone Portugal
+87.103.14.249:587:dlrm.pt:Vodafone Portugal
+176.61.150.178:587:witty.pt:Claranet SOHO
+185.219.131.218:587:skywalkireland.com:Xervers, Unipessoal Lda
+213.30.21.58:2525:carclasse.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+194.65.137.34:587:multilem.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+161.230.203.148:25:vodafone.pt:Vodafone Portugal
+195.22.24.73:587:fortclima.pt:Clara.net Portugal
+94.46.181.10:587:mcservicecloud.com:Almouroltec Servicos De Informatica E Internet LDA
+62.48.185.250:587:scmesposende.pt:PT Prime
+195.22.8.84:587:dnsrhea.com:Clara.net Portugal
+94.46.168.118:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.100:587:tetoonline.com:Almouroltec Servicos De Informatica E Internet LDA
+193.136.79.113:25:uportu.eu:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.14.50:587:turbomar.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.47.20:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.88.184:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+185.11.166.146:25:tirenet.biz:DMNS - DOMINIOS, S.A
+62.28.225.225:587:ambitermo.com:PT Prime
+109.71.43.91:587:wis4.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.132.248:25:montalva.pt:Vodafone Portugal
+80.172.230.60:587:dot2web.com:Claranet Portugal
+94.46.181.13:587:marionetasmandragora.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.166:587:scmealhada.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.95.18:25:maler-volk.de:ENTEGA Medianet GmbH
+130.185.84.117:25:paulocosta.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.133:587:mariscomac.org:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.101:587:saomiguelgrandescantorias.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.21.101:25:amatoscar.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.8:587:larusdesign.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.21.177:587:hub.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.147.189:587:ied-web.com:Flesk Telecom
+176.61.149.14:587:albatrozdigital.pt:Flesk Telecom
+212.13.45.4:587:nortenet.pt:Nortenet - Sistemas de Comunicacao SA.
+109.71.43.148:587:gilalvesdasilvalda.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.217.241:587:webcheckprinter.com.pt:NOS COMUNICACOES
+94.46.168.195:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.7:587:sabersemlimites.info:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.83:25:consulteware.com:Claranet
+185.11.167.214:587:pcplusserver.com:DMNS - DOMINIOS, S.A
+130.185.85.242:587:createinfor.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.80:587:ibername.com:Claranet
+94.46.170.121:587:cabocom.cv:Almouroltec Servicos De Informatica E Internet LDA
+62.28.230.166:25:webside.pt:PT Prime
+130.185.84.58:587:serifa.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.136:587:comtemp.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.150.73:587:progline.com:Claranet SOHO
+130.185.87.4:587:anpq.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.123:587:ris2048.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.243:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.113.142.195:25:stjoesaz.net:I4W - Web Solutions
+94.61.201.140:587:vodafone.pt:Vodafone Portugal
+94.46.175.80:587:agilestartup.host:Almouroltec Servicos De Informatica E Internet LDA
+5.249.124.180:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.30.1:587:hub.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.127:587:gsmb.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.63.232.245:587:pro-site.pt:AR TELECOM - Acessos e Redes de Telecomunicacoes
+213.13.108.41:587:fleximedia.pt:PT Comunicacoes S.A.
+109.71.43.64:587:qls-services.com:Almouroltec Servicos De Informatica E Internet LDA
+213.30.40.130:25:wurth.pt:Vodafone Portugal
+94.46.15.148:587:stationpc.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.43:587:tmamanalvo.com:Almouroltec Servicos De Informatica E Internet LDA
+193.136.115.79:25:unl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+109.71.43.47:587:vendas-portugal.com:Almouroltec Servicos De Informatica E Internet LDA
+193.136.221.16:587:it.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+80.172.255.45:587:redicom.pt:Claranet Portugal
+185.113.143.35:25:davesworld.org.uk:I4W - Web Solutions
+195.23.10.183:25:novis.pt:NOS COMUNICACOES S.A.
+176.221.35.49:587:soccsantos.cloud:CiberConceito Informatica e Servicos Unipessoal
+109.71.43.39:587:inforshift.com:Almouroltec Servicos De Informatica E Internet LDA
+176.61.147.76:587:pro-x-web.com:Flesk Telecom
+62.28.63.3:587:vitrochaves.com:PT Prime
+176.61.150.10:587:exergia.pt:Claranet SOHO
+94.46.30.87:587:bussola.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.63.233.229:587:spi.pt:AR TELECOM - Acessos e Redes de Telecomunicacoes
+94.46.180.126:587:messagelands.com:Almouroltec Servicos De Informatica E Internet LDA
+193.137.201.85:587:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+62.28.57.22:25:feriaseviagens.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+176.221.35.21:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+94.46.14.117:587:webnucleo.net:Almouroltec Servicos De Informatica E Internet LDA
+62.28.236.122:25:marso.pt:PT Prime
+94.46.20.59:25:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.23.128:587:laskasas.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.184.90:25:byside.com:PT Prime
+88.157.208.198:587:dialeto-assertivo.pt:NOS COMUNICACOES
+130.185.84.181:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.115.43:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+195.23.50.180:25:sinfic.pt:NOS COMUNICACOES S.A.
+94.46.167.156:587:dplay.tv:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.183:587:inforquestion.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.224.214:587:onesource.pt:PT Prime
+5.206.227.65:2525:illuminuservice.com:BlazingFast LLC
+188.93.227.44:25:ibername.com:Claranet
+85.244.81.108:25:telepac.pt:PT Comunicacoes S.A.
+213.58.234.170:587:gtgrupo.pt:Edinet/E3G
+87.103.99.192:25:vodafone.pt:Vodafone Portugal
+193.126.247.12:587:novis.pt:NOS COMUNICACOES, S.A.
+62.28.35.20:25:his.pt:PT Prime
+94.46.180.100:587:alownetworks.com:Almouroltec Servicos De Informatica E Internet LDA
+148.69.88.179:587:lanidor.com:Vodafone Portugal - Communicacoes Pessoais S.A.
+87.103.114.107:25:vodafone.pt:Vodafone Portugal
+5.249.56.36:587:vodafone.pt:Vodafone Portugal
+213.13.108.2:587:fleximedia.pt:PT Comunicacoes S.A.
+188.93.227.195:587:ibername.com:Claranet
+176.61.146.88:25:pixelbiz.pt:Dominios
+161.230.203.149:25:vodafone.pt:Vodafone Portugal
+130.185.87.59:587:vnf.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.38.137.151:587:mccomputadores.pt:ONITELECOM - INFOCOMUNICACOES, S.A.
+62.28.249.115:25:ducaro.es:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.26.40:587:portugalnummapa.com:Almouroltec Servicos De Informatica E Internet LDA
+85.138.122.254:587:netcabo.pt:NOS COMUNICACOES S.A
+94.46.30.105:587:census-academy.pt:Almouroltec Servicos De Informatica E Internet LDA
+85.246.147.175:587:telepac.pt:PT Comunicacoes S.A.
+94.46.14.191:587:addcomunicacao.com:Almouroltec Servicos De Informatica E Internet LDA
+95.92.164.29:587:netcabo.pt:NOS COMUNICACOES S.A
+195.22.25.110:587:tmvm.pt:Claranet Portugal S.A
+130.185.86.124:587:jornaldasoficinas.com:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.207:587:mister-moderate.com:Almouroltec Servicos De Informatica E Internet LDA
+148.69.142.30:587:primetool.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+2.82.49.66:25:telepac.pt:PT Comunicacoes S.A
+94.46.163.55:587:gifty.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.50:587:turbomar.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.141:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.24:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.65.137.130:587:intermade.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+130.185.84.91:587:uebdigital.com:Almouroltec Servicos De Informatica E Internet LDA
+62.48.155.22:587:lusoimpress.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.23.218:587:blisqcreative.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.23.78.249:587:ip-94-23-78.eu:OVH ISP
+188.93.231.5:587:ibername.com:Claranet
+130.185.87.236:587:commarca.net:Almouroltec Servicos De Informatica E Internet LDA
+176.221.36.99:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+62.28.95.245:25:sysadvance.com:PT Prime
+94.46.15.102:587:rootsp.biz:Almouroltec Servicos De Informatica E Internet LDA
+130.185.87.250:587:recordignition.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.20.138:587:onvirtualgym.com:Almouroltec Servicos De Informatica E Internet LDA
+88.157.199.142:587:netcabo.pt:NOS COMUNICACOES S.A
+176.61.146.90:587:rodrilab.com:Dominios
+148.69.223.70:25:dexprom.com:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.168.18:587:temonteiro.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.219.8:587:ne-2000.com:NOS COMUNICACOES
+185.51.94.170:587:all-innature.com:BLU, S.A.
+94.46.168.206:587:mymailbox.cloud:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.19:587:indabox.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.126.173.118:587:webflow.works:Dominios
+80.172.227.142:587:wv.pt:Claranet Portugal
+94.46.168.76:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.126.172.20:25:egis.pt:Dominios
+148.69.180.94:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.165.59:587:dns-host-servers.com:Almouroltec Servicos De Informatica E Internet LDA
+148.69.141.217:587:connectservices.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.126.171.166:587:offshoresmarine.com:DMNS - DOMINIOS, S.A
+62.28.191.218:25:cordialtours.pt:PT Prime
+94.46.180.108:587:alownetworks.com:Almouroltec Servicos De Informatica E Internet LDA
+185.113.141.244:25:varietypen.com:I4W - Web Solutions
+62.28.184.107:25:byside.com:PT Prime
+213.30.51.139:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+130.185.85.102:25:dns-host-servers.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.31:587:jarrodourado.com:Almouroltec Servicos De Informatica E Internet LDA
+148.69.88.189:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.30.68:587:pke.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.28:587:pms.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.71.133.81:25:vodafone.pt:Vodafone Portugal
+94.46.167.206:587:grifin.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.11:587:goldfinance.pt:Almouroltec Servicos De Informatica E Internet LDA
+212.13.42.163:25:eurotyre.pt:Nortenet - Sistemas de Comunicacao SA.
+5.249.108.64:587:ispcx.com:Vodafone Portugal
+94.46.181.26:587:wl-dns.com:Almouroltec Servicos De Informatica E Internet LDA
+185.38.142.172:587:evromail.com:dotsi - Solucoes Internet
+94.46.14.225:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.175.108:587:isag.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.82.187.134:25:telepac.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+188.93.233.125:25:httpsfastwaytransitltd.org:dotsi - Solucoes Internet
+77.91.206.134:587:nqdigitalagency.pt:Cgest S.A.
+94.46.168.189:587:areanimal.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.34:587:perfectloom.com:Almouroltec Servicos De Informatica E Internet LDA
+195.22.10.118:587:quantinfor.pt:Clara.net Portugal
+94.46.180.77:587:voidpersonal.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.123:587:workaf.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.226.232:25:netcabo.pt:NOS COMUNICACOES
+188.93.231.86:587:ibername.com:Claranet
+94.46.28.77:587:bydtestes.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.13.26.146:25:meocloud.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.28.25:25:ptisp.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.71.79.5:25:vodafone.pt:Vodafone Portugal
+80.172.227.59:587:wv.pt:Claranet Portugal
+94.46.31.27:587:gcconsultores.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.234.11:587:mei.pt:dotsi - Solucoes Internet
+176.61.149.70:587:thesign.pt:Flesk Telecom
+176.221.33.232:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+62.28.166.6:587:abborges.pt:PT Prime
+81.90.62.244:587:refertelecom.pt:Refertelecom AS29003
+83.240.176.25:25:actuasys.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+188.93.230.130:587:norprint.pt:Claranet
+109.71.44.5:587:servicos-informatica.net:Almouroltec Servicos De Informatica E Internet LDA
+109.71.45.105:587:serv-ip.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.25:587:proactivos.pt:Claranet
+176.61.148.31:587:microeuropa.pt:Claranet SOHO
+213.63.186.117:587:mbblcnetworks.pt:AR TELECOM - Acessos e Redes de Telecomunicacoes
+176.61.147.26:587:toolskw.com:Flesk Telecom
+130.185.84.73:587:noise.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.230.113:587:dot2web.com:Claranet Portugal
+94.46.180.44:587:perfectloom.com:Almouroltec Servicos De Informatica E Internet LDA
+185.51.95.189:25:cm-sernancelhe.pt:BLU, S.A.
+94.46.173.21:587:agencia-funeraria-alves.pt:Almouroltec Servicos De Informatica E Internet LDA
+87.103.122.226:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.30.119:587:cosmedica.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.221.34.161:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+188.93.227.176:587:ibername.com:Claranet
+213.30.24.218:25:min-agricultura.pt:Vodafone Portugal
+185.83.251.159:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.46.170.159:587:miudo.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.179:587:mazdaonline.com.pt:Claranet
+130.185.84.33:587:domjosebeachhotel.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.111:587:webplus.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.217:587:wordmaker.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.172:587:virtualservers.pt:Almouroltec Servicos De Informatica E Internet LDA
+84.91.197.98:25:netvisao.pt:NOWO COMMUNICATIONS, S.A.
+213.63.186.10:587:leme.pt:AR TELECOM - Acessos e Redes de Telecomunicacoes
+94.46.168.100:587:datario.eu:Almouroltec Servicos De Informatica E Internet LDA
+161.230.41.171:587:vodafone.pt:Vodafone Portugal
+176.221.38.98:587:ciberserver.cloud:CiberConceito Informatica e Servicos Unipessoal, Lda
+176.221.36.90:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+94.46.181.223:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.205.78.154:587:algarvenet.com.pt:NOS COMUNICACOES
+94.46.170.136:587:dfexclusive.com:Almouroltec Servicos De Informatica E Internet LDA
+94.126.172.142:587:zedlink.pt:Dominios
+88.157.220.41:587:netcabo.pt:NOS COMUNICACOES
+188.93.230.159:587:xzconsultores.pt:Claranet
+89.153.206.147:25:netcabo.pt:NOS Comunicacoes S.A.
+185.118.115.82:587:all-stars-motorsport.com:Dream Fusion - IT Services Lda
+185.99.234.69:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.28.245.146:25:webside.pt:PT Prime
+94.46.180.129:587:optiontwelve.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.168:587:fagir.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.137.102.14:587:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+188.80.27.222:25:telepac.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+94.46.168.57:587:palm3sunglasses.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.203.174:25:proficopia.pt:PT Prime
+89.152.60.143:25:netcabo.pt:NOS Comunicacoes S.A.
+94.46.25.177:587:ynnovation.pt:Almouroltec Servicos De Informatica E Internet LDA
+82.154.26.113:25:telepac.pt:PT Comunicacoes S.A.
+193.126.80.119:25:novis.pt:EUnet
+130.185.87.124:587:instrumentacaoindustrial.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.102:587:digitaldesign.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.221:587:corporatemail.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.144:587:rbd.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.221.34.181:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+176.221.34.35:587:acidados.net:CiberConceito Informatica e Servicos Unipessoal
+194.65.101.227:587:dqm.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.28.156:587:nzytech.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.169:587:fagir.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.76:587:ibername.com:Claranet
+82.155.26.127:587:telepac.pt:PT Comunicacoes S.A.
+195.22.7.30:587:dnsaegir.com:Clara.net Portugal
+94.46.168.26:587:platinumsystems.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.182:587:ibername.com:Claranet
+188.93.230.94:587:ibername.com:Claranet
+94.46.15.239:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.113.141.223:587:maskcloud.net:I4W - Web Solutions
+94.46.181.187:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.79.67.195:25:novis.pt:NOS COMUNICACOES S.A.
+109.71.43.226:587:wimago.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.128:587:valournet.pt:Almouroltec Servicos De Informatica E Internet LDA
+80.172.227.63:587:wv.pt:Claranet Portugal
+85.139.250.106:587:easypeople.pt:NOS COMUNICACOES S.A
+94.46.170.52:587:guimaraes.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.249.120:25:ropregroup.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+80.172.227.161:587:wv.pt:Claranet Portugal
+130.185.84.81:587:tarefasvirtuais.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.48.222.169:25:inovanet.pt:PT Prime
+95.94.7.85:25:netcabo.pt:NOS Comunicacoes S.A.
+176.61.148.176:587:furnishyourabode.com:Claranet SOHO
+94.46.26.39:587:healthteam.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.132.163:587:transdev.pt:Vodafone Portugal
+94.126.173.50:587:consencibss.net:Dominios
+94.126.172.110:25:valorcar.pt:Dominios
+195.22.19.100:587:wv.pt:Clara.net Portugal
+109.71.43.65:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.227.196:587:ibername.com:Claranet
+94.46.15.166:587:3drivers.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.65.30.4:25:viatecla.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+176.61.148.201:587:furnishyourabode.com:Claranet SOHO
+62.48.216.33:25:cenfim.pt:PT Prime
+94.46.180.109:587:alownetworks.com:Almouroltec Servicos De Informatica E Internet LDA
+83.240.180.196:25:dimatur.pt:PT Prime
+88.214.188.136:587:tmn.pt:MEO
+130.185.87.51:587:backit-up.com:Almouroltec Servicos De Informatica E Internet LDA
+85.246.254.72:587:telepac.pt:PT Comunicacoes S.A.
+94.46.30.8:587:gov.ao:Almouroltec Servicos De Informatica E Internet LDA
+185.113.142.218:25:createdwiki.com:I4W - Web Solutions
+195.23.69.228:25:novis.pt:NOS COMUNICACOES S.A.
+94.46.22.71:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.175.178:587:insupire.net:Almouroltec Servicos De Informatica E Internet LDA
+81.84.241.98:25:netcabo.pt:NOS Comunicacoes S.A.
+176.61.150.159:587:maiaenergia.pt:Claranet SOHO
+185.83.251.40:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+94.46.182.63:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.97:587:ibername.com:Claranet
+213.13.108.14:587:dietmoney.com:PT Comunicacoes S.A.
+188.93.230.65:587:ibername.com:Claranet
+193.137.59.146:25:fccn.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+185.83.250.111:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+193.137.200.38:587:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.181.189:587:antonio-s.pro:Almouroltec Servicos De Informatica E Internet LDA
+193.137.200.41:587:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.180.59:587:tanicpass.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.91:587:nerleiwebinar.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.173.45:587:vinylgourmet.com:Almouroltec Servicos De Informatica E Internet LDA
+148.69.180.129:25:cm-tvedras.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+195.23.97.1:25:spgm.pt:NOS COMUNICACOES S.A.
+94.46.28.97:587:habitus.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.219.131.221:587:backfromthefire.com:Xervers, Unipessoal Lda
+94.46.164.128:587:renaultretail.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.126.10.115:587:novis.pt:EUnet
+94.46.14.60:587:rebortec.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.229.234:587:cm-vminho.pt:PT Prime
+185.99.234.73:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.28.222.202:25:1-hostingservice.com:PT Prime
+94.46.180.37:587:perfectloom.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.88:587:aesgama.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.71:587:cenate.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.81:587:tours.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.213:587:1wayunlimited.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.137:587:ibername.com:Claranet
+46.189.221.245:587:vodafone.pt:Vodafone Portugal
+94.46.168.207:587:runto.pt:Almouroltec Servicos De Informatica E Internet LDA
+88.157.193.143:587:ipbrick.com:NOS COMUNICACOES S.A
+94.46.180.70:587:voidpersonal.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.167.159:587:lucerna.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.113.142.135:587:escola-apel.com:I4W - Web Solutions
+87.103.15.171:25:itap-net.org:Vodafone Portugal
+88.157.202.145:587:abreu.pt:NOS COMUNICACOES S.A
+176.61.150.119:587:futureway.pt:Claranet SOHO
+62.28.150.101:587:ecs.pt:PT Prime
+88.157.181.198:587:mundifios.pt:NOS COMUNICACOES S.A
+193.136.146.19:25:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+176.221.33.133:587:netcare.pt:CiberConceito Informatica e Servicos Unipessoal
+193.136.98.26:25:utl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.182.51:587:pastcampaign.com:Almouroltec Servicos De Informatica E Internet LDA
+193.136.128.8:587:utl.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+88.157.193.142:587:esop.pt:NOS COMUNICACOES S.A
+94.23.78.223:587:mail-server.site:OVH ISP
+94.46.181.130:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.109:587:europress.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.163.30:25:sulimet.com:PT Prime
+94.46.23.120:587:gofox.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.187.163:25:rosasconstrutores.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+85.139.245.113:25:euroset.pt:NOS COMUNICACOES S.A
+109.71.43.43:587:ffp.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.181.33:587:captemp.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.14.220:587:portodeventos.com:Almouroltec Servicos De Informatica E Internet LDA
+213.30.17.166:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.163.142:587:servidados.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.174:587:esposenderun.com:Almouroltec Servicos De Informatica E Internet LDA
+195.22.14.186:587:1000cloud.net:Clara.net Portugal
+188.93.230.186:587:you.com.pt:Claranet
+195.22.14.116:587:lvengine.com:Clara.net Portugal
+80.172.230.67:25:dot2web.com:Claranet Portugal
+193.137.122.23:25:unl.pt:Fundacao para a Ciencia e a Tecnologia
+94.46.167.97:587:dfrnet.org:Almouroltec Servicos De Informatica E Internet LDA
+88.157.208.206:25:mediapro.pt:NOS COMUNICACOES S.A
+95.136.9.249:587:enescoord.pt:Vodafone Portugal
+62.28.224.201:587:sotubo.com:PT Prime
+176.221.38.107:587:ciberserver.cloud:CiberConceito Informatica e Servicos Unipessoal, Lda
+130.185.87.184:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.136.128.21:25:ulisboa.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.14.129:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.97:25:ideiacriativa.com:Almouroltec Servicos De Informatica E Internet LDA
+88.157.138.30:25:netcabo.pt:NOS COMUNICACOES S.A
+5.249.103.120:2525:bramp.pt:Vodafone Portugal
+194.38.146.193:587:cm-vrsa.pt:ONITELECOM
+130.185.84.30:587:server.pet:Almouroltec Servicos De Informatica E Internet LDA
+148.69.217.81:25:lameirinho.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+188.81.78.33:25:telepac.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+130.185.84.27:587:akkp.org:Almouroltec Servicos De Informatica E Internet LDA
+213.22.32.87:25:netcabo.pt:NOS Comunicacoes S.A.
+94.46.170.87:587:way2concept.net:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.25:587:ibername.com:Claranet
+193.126.29.222:587:azimutevirtual.pt:EUnet
+94.46.169.66:587:gasdeco.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.172.41:587:proforstore.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.86:587:gf-papersoft.com:Almouroltec Servicos De Informatica E Internet LDA
+194.65.74.133:25:grupovisabeira.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+80.172.253.80:25:360graus.pt:Claranet Portugal
+94.46.15.93:587:novidade.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.99:587:alownetworks.com:Almouroltec Servicos De Informatica E Internet LDA
+194.38.133.167:587:maquinadigital.net:ONITELECOM - INFOCOMUNICACOES, S.A.
+188.93.227.79:587:ibername.com:Claranet
+185.99.234.67:587:ciberserver.com:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.30.73:587:powersales.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.65.115.199:25:spn.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+80.172.227.30:587:wv.pt:Claranet Portugal
+94.46.167.155:587:dplay.tv:Almouroltec Servicos De Informatica E Internet LDA
+94.46.181.192:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.28.87:25:mail-host-servers.com:Almouroltec Servicos De Informatica E Internet LDA
+94.126.172.156:587:zedlink.pt:Dominios
+81.193.55.177:587:telepac.pt:PT Comunicacoes S.A.
+94.46.180.143:587:optiontwelve.com:Almouroltec Servicos De Informatica E Internet LDA
+188.93.231.31:587:importeco.com:Claranet
+193.236.75.223:25:min-educ.pt:Direcao Geral de Estatisticas da Educacao e Ciencia
+62.48.228.46:25:iberolinhas.pt:PT Prime
+94.126.171.3:25:clubenet.net:Dominios
+94.46.135.52:587:wizinteractive.net:Almouroltec Servicos De Informatica E Internet LDA
+94.46.15.178:587:melit.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.28.235.178:587:beppi.com.pt:PT Prime
+193.137.10.40:25:blcs.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+195.22.26.30:587:vianw.pt:Clara.net Portugal
+95.94.141.13:587:netcabo.pt:NOS COMUNICACOES S.A
+62.28.150.25:587:cm-valedecambra.pt:PT Prime
+94.46.141.237:25:1-hostingservice.com:Miguel Goncalves Unipessoal LDA
+185.118.115.250:25:sausport.com:Dream Fusion - IT Services Lda
+109.71.43.232:587:live4digital.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.65.137.149:587:ecoambiente.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.170.144:587:casulodaweb.pt:Almouroltec Servicos De Informatica E Internet LDA
+185.98.250.169:587:plako.net:Eurotux Informatica SA
+88.157.217.240:587:printer.pt:NOS COMUNICACOES
+94.62.90.70:25:vodafone.pt:Vodafone Portugal
+148.69.88.183:587:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+185.118.115.234:587:maisbuzz.pt:Dream Fusion - IT Services Lda
+94.46.168.88:587:thebrand.pt:Almouroltec Servicos De Informatica E Internet LDA
+85.246.149.113:587:telepac.pt:PT Comunicacoes S.A.
+193.136.215.53:25:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+5.206.227.20:587:duckcvv.com:BlazingFast LLC
+193.136.28.30:587:up.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+188.93.230.12:587:ibername.com:Claranet
+85.88.136.124:587:ahp.pt:COLT Internet Portugal
+94.46.14.136:587:jcostabarros.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.47:587:farmaoli.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.115:587:portugaldigital.gov.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.126.80.115:25:novis.pt:EUnet
+94.46.180.107:587:alownetworks.com:Almouroltec Servicos De Informatica E Internet LDA
+109.71.42.57:587:hssportugal.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.163.198:587:osjeronimos.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.122:587:respostassociais.pt:Almouroltec Servicos De Informatica E Internet LDA
+62.48.211.237:25:webside.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.181.124:587:mymadeirahome.com:Almouroltec Servicos De Informatica E Internet LDA
+83.240.181.222:587:csmaritimo.org:PT Prime
+130.185.87.60:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.189:587:srdoutor.com.br:Claranet
+94.46.179.16:587:meshirt.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.65.5.49:25:sapo.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A
+94.46.164.160:587:sulsites.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.181.167:587:brainsystems-it.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.56:587:nanochip.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.46.89:25:as24768.net:Almouroltec Servicos De Informatica E Internet LDA
+193.136.59.12:25:ipp.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+109.71.44.174:587:improxy.com:Almouroltec Servicos De Informatica E Internet LDA
+176.221.35.25:587:ciberserver.com:CiberConceito Informatica e Servicos Unipessoal
+88.157.227.74:587:cm-coimbra.pt:NOS COMUNICACOES S.A
+185.15.23.40:587:bolder.pt:Almouroltec Servicos De Informatica E Internet LDA
+89.114.91.14:25:vodafone.pt:Vodafone Portugal
+62.48.211.128:25:webside.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+94.46.15.27:587:concentra.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.58.136.44:587:fea.pt:ONITELECOM IP Address
+130.185.86.98:587:csiportugal.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.171.185:587:adsglobal.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.49:587:logrise.pt:Almouroltec Servicos De Informatica E Internet LDA
+81.90.59.244:587:refertelecom.pt:Refertelecom AS29003
+130.185.87.189:587:workaf.com:Almouroltec Servicos De Informatica E Internet LDA
+193.126.27.62:25:nos.pt:NOS COMUNICACOES
+109.71.43.195:587:alojadominios.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.196:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+194.65.101.148:587:amundsen.pt:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+62.28.3.230:587:sesimbrahotelspa.com:PT Prime
+148.69.124.128:25:vodafone.pt:Vodafone Portugal
+94.46.182.73:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.168.72:587:laskasas.com:Almouroltec Servicos De Informatica E Internet LDA
+185.83.251.85:587:online.pt:100 LIMITE - SERVICOS DE INTERNET ONLINE LDA
+193.137.79.41:587:ipc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+176.61.147.129:587:shopsite.info:Flesk Telecom
+94.46.25.240:587:leirianoprato.pt:Almouroltec Servicos De Informatica E Internet LDA
+193.137.55.26:25:up.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.173.154:587:diamondbybold.com:Almouroltec Servicos De Informatica E Internet LDA
+62.28.172.34:25:acailgrupo.pt:PT Prime
+94.46.169.205:587:electrosaovicente.net:Almouroltec Servicos De Informatica E Internet LDA
+185.15.23.34:587:educframe.pt:Almouroltec Servicos De Informatica E Internet LDA
+176.61.148.101:587:megautoria.pt:Claranet SOHO
+94.46.173.183:587:virtualservers.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.25.12:587:bright.pt:Almouroltec Servicos De Informatica E Internet LDA
+5.249.98.209:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+185.38.142.164:587:anonymous.info.in:dotsi - Solucoes Internet
+94.46.135.73:587:sograpevinhos.net:Almouroltec Servicos De Informatica E Internet LDA
+193.137.211.4:25:uc.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+94.46.21.168:587:youonscreen.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.23.97.230:25:compta.pt:NOS COMUNICACOES S.A.
+94.46.164.68:587:yourcmm.co.uk:Almouroltec Servicos De Informatica E Internet LDA
+188.93.230.45:587:ibername.com:Claranet
+109.71.43.242:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.170.215:587:inoveonline.pt:Almouroltec Servicos De Informatica E Internet LDA
+188.37.125.221:25:vodafone.pt:Vodafone Portugal
+212.13.44.14:587:selt.pt:Nortenet - Sistemas de Comunicacao SA.
+195.23.128.250:587:optimus.net.pt:NOS COMUNICACOES S.A.
+94.46.25.79:587:adfpr.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.22.88:587:sfmarques.com:Almouroltec Servicos De Informatica E Internet LDA
+195.23.10.230:25:pcm-b.com:NOS COMUNICACOES
+94.126.171.144:587:open-media.net:DMNS - DOMINIOS, S.A
+87.103.15.215:587:moldworld.pt:Vodafone Portugal
+94.46.15.39:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.30.18.210:25:masalgueiro.pt:Vodafone Portugal
+94.46.25.215:587:lsd.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.169.177:587:madeira-levada-walks.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.30.86:587:fap.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.180.123:587:messagelands.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.182.33:587:cm-saovicente.pt:Almouroltec Servicos De Informatica E Internet LDA
+94.46.182.50:587:pastcampaign.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.165.171:587:controlcerto.com:Almouroltec Servicos De Informatica E Internet LDA
+213.30.51.143:25:vodafone.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+94.46.165.207:587:afp.com.pt:Almouroltec Servicos De Informatica E Internet LDA
+89.152.246.33:25:netcabo.pt:NOS Comunicacoes S.A.
+94.46.22.120:587:ptisp.pt:Almouroltec Servicos De Informatica E Internet LDA
+213.13.108.3:587:leirianet.pt:PT Comunicacoes S.A.
+80.172.255.47:587:dnspt.net:Claranet Portugal
+193.136.216.14:25:uevora.pt:Fundacao para a Ciencia e a Tecnologia, I.P.
+89.152.44.25:25:netcabo.pt:NOS Comunicacoes S.A.
+94.46.181.224:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.44.29:587:evolua.pt:Almouroltec Servicos De Informatica E Internet LDA
+83.174.44.3:25:simas-oeiras-amadora.pt:Vodafone Portugal - Communicacoes Pessoais S.A.
+109.71.44.4:587:salepimentakids.com:Almouroltec Servicos De Informatica E Internet LDA
+94.46.23.240:587:cleanmx.pt:Almouroltec Servicos De Informatica E Internet LDA
+109.71.43.82:587:bigobjectivos.pt:Almouroltec Servicos De Informatica E Internet LDA
+195.23.238.154:587:barbal.net:NOS COMUNICACOES
+94.46.15.230:587:webserver.pt:Almouroltec Servicos De Informatica E Internet LDA
+85.244.244.78:25:telepac.pt:PT Comunicacoes S.A.
+109.71.45.186:587:receitasemenus.net:Almouroltec Servicos De Informatica E Internet LDA
+130.185.84.147:587:w3experts.pt:Almouroltec Servicos De Informatica E Internet LDA
+148.69.185.66:25:contimetra.com:Vodafone Portugal - Communicacoes Pessoais S.A.

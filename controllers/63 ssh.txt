@@ -1,0 +1,63 @@
+71.162.4.80|ubnt|ubnt|United States (US)|Pennsylvania|Bridgeville|15017
+198.46.141.98|ftpuser|test123|United States (US)|New York|Buffalo|14221
+71.162.4.80|ubnt|ubnt|United States (US)|Pennsylvania|Bridgeville|15017
+198.46.141.99|ftpuser|test123|United States (US)|New York|Buffalo|14221
+71.162.4.80|ubnt|ubnt|United States (US)|Pennsylvania|Bridgeville|15017
+104.238.83.196|nobody|nobody|Unknown (Unknown)|Unknown|Unknown|Unknown
+198.46.141.99|ftpuser|test123|United States (US)|New York|Buffalo|14221
+203.217.121.190|admin|admin|Taiwan (TW)|Unknown|Unknown|Unknown
+71.162.4.80|ubnt|ubnt|United States (US)|Pennsylvania|Bridgeville|15017
+198.46.141.101|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.98|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+71.162.4.80|ubnt|ubnt|United States (US)|Pennsylvania|Bridgeville|15017
+198.46.141.100|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.100|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.99|ftpuser|test123|United States (US)|New York|Buffalo|14221
+104.238.83.196|nobody|nobody|Unknown (Unknown)|Unknown|Unknown|Unknown
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+104.238.83.196|nobody|nobody|Unknown (Unknown)|Unknown|Unknown|Unknown
+198.46.141.98|ftpuser|test123|United States (US)|New York|Buffalo|14221
+97.77.157.242|root|@#$%^&*!()|United States (US)|Texas|San Antonio|Unknown
+50.247.202.129|ftp|ftp|United States (US)|Unknown|Unknown|Unknown
+104.238.83.196|nobody|nobody|Unknown (Unknown)|Unknown|Unknown|Unknown
+173.167.46.61|admin|default|United States (US)|California|Fresno|93710
+104.238.83.196|nobody|nobody|Unknown (Unknown)|Unknown|Unknown|Unknown
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.101|ftpuser|test123|United States (US)|New York|Buffalo|14221
+104.238.83.196|nobody|nobody|Unknown (Unknown)|Unknown|Unknown|Unknown
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+71.162.4.80|ubnt|ubnt|United States (US)|Pennsylvania|Bridgeville|15017
+104.238.83.196|nobody|nobody|Unknown (Unknown)|Unknown|Unknown|Unknown
+71.162.4.80|ubnt|ubnt|United States (US)|Pennsylvania|Bridgeville|15017
+198.46.141.98|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.101|ftpuser|test123|United States (US)|New York|Buffalo|14221
+97.77.157.242|root|@#$%^&*!()|United States (US)|Texas|San Antonio|Unknown
+97.77.157.242|root|@#$%^&*!()|United States (US)|Texas|San Antonio|Unknown
+59.44.47.106|test|test|China (CN)|Liaoning|Shenyang|Unknown
+218.22.235.138|uucp|uucp|China (CN)|Anhui|Hefei|Unknown
+125.66.2.67|uucp|uucp|China (CN)|Sichuan|Chengdu|Unknown
+60.173.114.254|uucp|uucp|China (CN)|Anhui|Hefei|Unknown
+115.236.24.10|uucp|uucp|China (CN)|Zhejiang|Hangzhou|Unknown
+61.190.16.210|uucp|uucp|China (CN)|Anhui|Hefei|Unknown
+218.72.249.218|uucp|uucp|China (CN)|Unknown|Unknown|Unknown
+118.114.239.158|uucp|uucp|China (CN)|Sichuan|Chengdu|Unknown
+218.22.187.69|uucp|uucp|China (CN)|Anhui|Hefei|Unknown
+61.191.130.198|uucp|uucp|China (CN)|Anhui|Hefei|Unknown
+113.140.84.86|uucp|uucp|China (CN)|Shaanxi|Xian|Unknown
+220.164.193.238|uucp|uucp|China (CN)|Yunnan|Kunming|Unknown
+85.118.62.41|test|test|France (FR)|Unknown|Unknown|Unknown
+85.118.62.41|test|test|France (FR)|Unknown|Unknown|Unknown
+85.118.62.41|test|test|France (FR)|Unknown|Unknown|Unknown
+85.118.62.41|test|test|France (FR)|Unknown|Unknown|Unknown
+218.149.228.173|admin|admin|Korea, Republic of (KR)|Unknown|Unknown|Unknown
+182.223.115.210|admin|admin|Korea, Republic of (KR)|Seoul-t'ukpyolsi|Seoul|Unknown
+218.149.228.166|admin|admin|Korea, Republic of (KR)|Unknown|Unknown|Unknown
+218.149.228.158|admin|admin|Korea, Republic of (KR)|Unknown|Unknown|Unknown
+31.4.255.45|guest|guest|Spain (ES)|Unknown|Unknown|Unknown
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
