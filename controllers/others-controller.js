@@ -5,6 +5,13 @@ const other = require("../models/other");
 const generalSettings = require("../models/general-setting");
 
 let convertedOthers;
+const groupByProperty = (xs, key) => {
+  return xs.reduce(function (rv, x) {
+    (rv[x[key]] = rv[x[key]] || []).push(x);
+    return rv;
+  }, {});
+};
+
 const summaryOthersByDuration = async () => {
   try {
     const allOthers = await other.find().exec();
@@ -61,21 +68,15 @@ const getOthersPagination = async (currentPage) => {
   }
 };
 
-const groupByProperty = (xs, key) => {
-  return xs.reduce(function (rv, x) {
-    (rv[x[key]] = rv[x[key]] || []).push(x);
-    return rv;
-  }, {});
-};
-
 const getOthersSummaryData = async (req, res, next) => {
   const currentPage = 1;
   try {
     const othersByDuration = await summaryOthersByDuration();
     const intro = await getOthersSummary();
     const paginationData = await getOthersPagination(currentPage);
+    const allData = convertedOthers;
 
-    const data = { paginationData, intro, othersByDuration };
+    const data = { paginationData, intro, othersByDuration, allData };
     res.status(200).json(data);
   } catch (error) {
     return next(new HttpError(`Loading data failed`, 500));
@@ -176,7 +177,7 @@ const deleteOthers = async (req, res, next) => {
 
   try {
     otherSelected = await other.findByIdAndRemove(otherId.trim()).exec();
-    res.status(202).json();
+    res.status(202).json({ message: "delete sucessfully" });
   } catch (error) {
     return next(new HttpError("Delete failed. Please try again", 500));
   }

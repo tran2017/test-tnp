@@ -59,19 +59,16 @@ const SUMMARY = [{ Lastlogin: "2023-02-20 4:44pm", TotalLeads: 999, TotalPhone: 
 const getHomeDataSummary = async (req, res, next) => {
   try {
     const allOthers = await other.find().exec();
-
+    const allOthersConverter = allOthers.map(x=> x.toObject({getters:true}));
     const intro = [
       { name: "Total results: ", value: allOthers.length },
     ];
     const otherDataByDuration = summaryData(allOthers);
 
-    const dataTables = {
-      otherTable: otherDataByDuration,
-    };
-
     const homeData = {
       homeIntro: intro,
-      homeDataTables: dataTables,
+      homeDataTables: otherDataByDuration,
+      totalItems: allOthersConverter
     };
 
     res.status(200).json(homeData);

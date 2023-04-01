@@ -7,7 +7,7 @@ const getLatestNotification = async (req, res, next) => {
     const convertedOthers = allOthers.map((x) => x.toObject({ getters: true }));
     const todayOthers = convertedOthers.filter((x) => (Date.now() - new Date(x.added)) / 86400000 < 1);
 
-    res.status(202).json({ latestNoti: todayOthers });
+    res.status(202).json({ latestNoti: todayOthers, allData: convertedOthers });
   } catch (error) {
     return next(new HttpError("Loading latest notification failed", 500));
   }
