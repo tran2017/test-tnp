@@ -45,7 +45,7 @@ app.use((error, req, res, next) => {
 });
 
 mongoose
-  .connect(`mongodb+srv://j-tran:X60RJhIGEzJFJU0e@cluster0.x6ooqfl.mongodb.net/products-manager?retryWrites=true&w=majority`)
+  .connect(`mongodb+srv://jtran:PoC1DjLOSvXaHAry@cluster0.x6ooqfl.mongodb.net/products-manager?retryWrites=true&w=majority`)
   .then(() => {
     app.listen(5000); //process.env.PORT ||
   })
