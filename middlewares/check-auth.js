@@ -11,7 +11,7 @@ module.exports = (req, res, next) => {
       throw new Error();
     }
 
-    const decodedValues = jwt.verify(token, process.env.JWT_KEY);
+    const decodedValues = jwt.verify(token, commonValues.JWT_KEY);
     req.userData = { userId: decodedValues.userId };
     next();
   } catch (error) {
