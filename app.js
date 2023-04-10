@@ -18,7 +18,6 @@ const app = express();
 app.use(bodyParser.json());
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Origin", "http://34.126.137.84");
   res.setHeader("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, Authorization");
   res.setHeader("Access-Control-Allow-Methods", "GET, POST, PATCH, DELETE");
 
@@ -46,7 +45,7 @@ app.use((error, req, res, next) => {
 });
 
 mongoose
-  .connect(`mongodb+srv://jtran:PoC1DjLOSvXaHAry@cluster0.x6ooqfl.mongodb.net/products-manager?retryWrites=true&w=majority`)
+  .connect(`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.x6ooqfl.mongodb.net/${process.env.DB_NAME}?retryWrites=true&w=majority`)
   .then(() => {
     app.listen(5000); //process.env.PORT ||
   })

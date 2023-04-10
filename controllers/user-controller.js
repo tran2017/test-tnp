@@ -83,7 +83,7 @@ const signin = async (req, res, next) => {
 
   let token;
   try {
-    token = jwt.sign({ userId: existingUser.id, email: existingUser.email }, commonValues.JWT_KEY, { expiresIn: "1h" });
+    token = jwt.sign({ userId: existingUser.id, email: existingUser.email }, process.env.JWT_KEY, { expiresIn: "1h" });
   } catch (error) {
     return next(new HttpError("Invalid account, please try again", 500));
   }
