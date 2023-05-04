@@ -14,6 +14,7 @@ var { MailListener } = require("mail-listener5");
 const legit = require("legit");
 const esc = require("email-syntax-check");
 const { geocoder, carrier } = require("libphonenumber-geo-carrier");
+var CompanyEmailValidator = require("company-email-validator");
 
 const calculateElapsedDay = (regDate) => {
   const elapsedMiliseconds = new Date() - new Date(regDate);
@@ -642,7 +643,23 @@ const RemoveSpamMails = async (req, res, next) => {
     return next(new HttpError("Invalid mail list", 422));
   }
 
-  const { mails } = req.body;
+  const { email, pcId, mails } = req.body;
+
+  let existingUser;
+  try {
+    existingUser = await user.findOne({ email: email });
+  } catch (error) {
+    return next(new HttpError(error, 422));
+  }
+
+  if (!existingUser) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.pcId !== pcId) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
   let validLeads = [];
   let disposableArr = [];
   let noreplyArr = [];
@@ -650,47 +667,71 @@ const RemoveSpamMails = async (req, res, next) => {
   let invalidArr = [];
 
   for (let index = 0; index < mails.length; index++) {
+    const mail = mails[index].trim();
     try {
-      const email = mails[index].trim();
-      const legitMail = await legit(email);
+      const legitMail = await legit(mail);
 
       if (!legitMail.isValid) {
-        invalidArr.push(email);
+        invalidArr.push(mail);
         continue;
       }
-      const response = await esc.syntaxCheck(email);
+      const response = await esc.syntaxCheck(mail);
       switch (response.status) {
         case ENGINE.DEAD_MAIL_STATUS.DISPOSABLE:
-          disposableArr.push(email);
+          disposableArr.push(mail);
           break;
         case ENGINE.DEAD_MAIL_STATUS.FREE_MAIL:
-          validLeads.push(email);
+          validLeads.push(mail);
           break;
         case ENGINE.DEAD_MAIL_STATUS.INVALID:
           if (legitMail.isValid) {
-            validLeads.push(email);
+            validLeads.push(mail);
           } else {
-            invalidArr.push(email);
+            invalidArr.push(mail);
           }
           break;
         case ENGINE.DEAD_MAIL_STATUS.OFFICIAL:
-          validLeads.push(email);
+          validLeads.push(mail);
           break;
         case ENGINE.DEAD_MAIL_STATUS.ROLES:
-          noreplyArr.push(email);
+          noreplyArr.push(mail);
           break;
         case ENGINE.DEAD_MAIL_STATUS.SPAM_TRAP:
-          spamTrapArr.push(email);
+          spamTrapArr.push(mail);
           break;
         default:
           break;
+      }
+    } catch (error) {
+      invalidArr.push(mail);
+      continue;
+    }
+  }
+
+  res.status(202).json({ validMails: validLeads, invalids: { noReply: noreplyArr, spam: spamTrapArr, invalid: invalidArr, disposable: disposableArr } });
+};
+
+const CompanyEmailFilter = async (req, res, next) => {
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return next(new HttpError("Invalid mail list", 422));
+  }
+
+  const { mails } = req.body;
+  let companyLeadsArr = [];
+  for (let index = 0; index < mails.length; index++) {
+    const mail = mails[index];
+    try {
+      var isCompanyEmail = CompanyEmailValidator.isCompanyEmail(mail); // true
+      if (isCompanyEmail) {
+        companyLeadsArr.push(mail);
       }
     } catch (error) {
       continue;
     }
   }
 
-  res.status(202).json({ validMails: validLeads, invalids: { noReply: noreplyArr, spam: spamTrapArr, invalid: invalidArr, disposable: disposableArr } });
+  res.status(202).json({ companyLeads: companyLeadsArr });
 };
 
 exports.loadInitialData = loadInitialData;
@@ -708,3 +749,4 @@ exports.getPhoneInfo = getPhoneInfo;
 exports.checkIpsBlacklist = checkIpsBlacklist;
 exports.fetchOfficeLeads = fetchOfficeLeads;
 exports.RemoveSpamMails = RemoveSpamMails;
+exports.CompanyEmailFilter = CompanyEmailFilter;

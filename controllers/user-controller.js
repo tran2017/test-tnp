@@ -11,7 +11,7 @@ const signup = async (req, res, next) => {
     return next(new HttpError("Invalid input data, please try again", 422));
   }
 
-  const { email, password } = req.body;
+  const { pcId, email, password } = req.body;
   let existingUser;
   try {
     existingUser = await user.findOne({ email: email });
@@ -33,6 +33,7 @@ const signup = async (req, res, next) => {
   const newUser = new user({
     email: email,
     password: hashedPassword,
+    pcId: pcId,
     added: new Date(Date.now()).toLocaleString("en-US", { timeZone: "Asia/Bangkok" }) || new Date(Date.now()).toLocaleString(),
   });
 
@@ -53,7 +54,7 @@ const signup = async (req, res, next) => {
 };
 
 const signin = async (req, res, next) => {
-  const { email, password } = req.body;
+  const { pcId, email, password } = req.body;
   let existingUser;
 
   try {
@@ -79,6 +80,11 @@ const signin = async (req, res, next) => {
     }
   } catch (error) {
     return next(new HttpError("Login failed. Please try again", 500));
+  }
+
+  const id = existingUser.pcId;
+  if (id !== pcId) {
+    return next(new HttpError("Invalid account, please try again", 500));
   }
 
   let token;

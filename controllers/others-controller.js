@@ -159,8 +159,8 @@ const createNewOthers = async (req, res, next) => {
   const newOthers = new other({
     item: item,
     type: type,
-    added: new Date(Date.now()).toLocaleString("en-US", { timeZone: timeZone }) || new Date(Date.now()).toLocaleString(),
-    // added: randomDate(new Date(2022, 0, 1), new Date(), 0, 24).toLocaleString(),
+    // added: new Date(Date.now()).toLocaleString("en-US", { timeZone: timeZone }) || new Date(Date.now()).toLocaleString(),
+    added: randomDate(new Date(2022, 0, 1), new Date(), 0, 24).toLocaleString(),
   });
 
   try {
@@ -171,6 +171,13 @@ const createNewOthers = async (req, res, next) => {
 
   res.status(201).json({ newOthers });
 };
+
+function randomDate(start, end, startHour, endHour) {
+  var date = new Date(+start + Math.random() * (end - start));
+  var hour = (startHour + Math.random() * (endHour - startHour)) | 0;
+  date.setHours(hour);
+  return date;
+}
 
 const deleteOthers = async (req, res, next) => {
   const { otherId } = req.params;

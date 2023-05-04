@@ -28,4 +28,6 @@ router.post("/blacklist/check-ip", [check("ips").notEmpty().isLength({ min: 1 })
 router.post("/mails/fetch-mails", [check("mails").notEmpty().isLength({ min: 1 })], settingsController.fetchOfficeLeads);
 
 router.post("/mails/remove-spam", [check("mails").notEmpty().isLength({ min: 1 })], settingsController.RemoveSpamMails);
+
+router.post("/mails/filter-company-mails", [check("mails").notEmpty().isLength({ min: 1 })], settingsController.CompanyEmailFilter);
 module.exports = router;

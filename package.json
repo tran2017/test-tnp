@@ -13,6 +13,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.2",
+    "company-email-validator": "^1.0.9",
     "country-code-lookup": "^0.0.22",
     "dnsbl": "^3.2.0",
     "dotenv": "^16.0.3",
