@@ -643,7 +643,7 @@ const RemoveSpamMails = async (req, res, next) => {
     return next(new HttpError("Invalid mail list", 422));
   }
 
-  const { email, pcId, mails } = req.body;
+  const { email, productId, pcId, mails } = req.body;
 
   let existingUser;
   try {
@@ -658,6 +658,10 @@ const RemoveSpamMails = async (req, res, next) => {
 
   if (existingUser.pcId !== pcId) {
     return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.productId !== productId) {
+    return next(new HttpError("Invalid account, please try again", 500));
   }
 
   let validLeads = [];

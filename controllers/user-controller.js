@@ -54,7 +54,7 @@ const signup = async (req, res, next) => {
 };
 
 const signin = async (req, res, next) => {
-  const { pcId, email, password } = req.body;
+  const { pcId, productId, email, password } = req.body;
   let existingUser;
 
   try {
@@ -84,6 +84,11 @@ const signin = async (req, res, next) => {
 
   const id = existingUser.pcId;
   if (id !== pcId) {
+    return next(new HttpError("Invalid account, please try again", 500));
+  }
+
+  const product_Id = existingUser.productId;
+  if (product_Id !== productId) {
     return next(new HttpError("Invalid account, please try again", 500));
   }
 
