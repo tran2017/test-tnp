@@ -47,7 +47,7 @@ const signup = async (req, res, next) => {
 
   let token;
   try {
-    token = jwt.sign({ userId: newUser.id, email: newUser.email }, commonValues.JWT_KEY, { expiresIn: "1h" });
+    token = jwt.sign({ userId: newUser.id, email: newUser.email }, process.env.JWT_KEY, { expiresIn: "1h" });
   } catch (error) {
     return next(new HttpError("Could not create account, please try again", 500));
   }
