@@ -11,7 +11,7 @@ const signup = async (req, res, next) => {
     return next(new HttpError("Invalid input data, please try again", 422));
   }
 
-  const { pcId, email, password } = req.body;
+  const { pcId, email, password, productId } = req.body;
   let existingUser;
   try {
     existingUser = await user.findOne({ email: email });
@@ -34,6 +34,8 @@ const signup = async (req, res, next) => {
     email: email,
     password: hashedPassword,
     pcId: pcId,
+    productId: productId,
+    key: "555",
     added: new Date(Date.now()).toLocaleString("en-US", { timeZone: "Asia/Bangkok" }) || new Date(Date.now()).toLocaleString(),
   });
 
@@ -45,7 +47,7 @@ const signup = async (req, res, next) => {
 
   let token;
   try {
-    token = jwt.sign({ userId: newUser.id, email: newUser.email }, ENGINE, { expiresIn: "1h" });
+    token = jwt.sign({ userId: newUser.id, email: newUser.email }, commonValues.JWT_KEY, { expiresIn: "1h" });
   } catch (error) {
     return next(new HttpError("Could not create account, please try again", 500));
   }
