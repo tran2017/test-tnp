@@ -8,4 +8,6 @@ router.post("/sign-up", [validate("email").normalizeEmail().isEmail(), validate(
 
 router.post("/sign-in", [validate("email").normalizeEmail().isEmail(), validate("password").isLength({ min: 6 })], userController.signin);
 
+router.put("/update-user", [validate("email").normalizeEmail().isEmail(), validate("productId").isLength({ min: 5 }), validate("pcId").isLength({ min: 5 })], userController.updateUser);
+
 module.exports = router;

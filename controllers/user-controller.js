@@ -104,5 +104,34 @@ const signin = async (req, res, next) => {
   res.status(200).json({ userId: existingUser.id, email: existingUser.email, token: token });
 };
 
+const updateUser = async (req, res, next)=>{
+  const { pcId, productId, email } = req.body;
+  let existingUser;
+
+  try {
+    existingUser = await user.findOne({ email: email });
+  } catch (error) {
+    return next(new HttpError(error, 422));
+  }
+
+  if (!existingUser) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.productId !== productId) {
+    return next(new HttpError("Invalid account, please try again", 500));
+  }
+
+  try {
+    existingUser.pcId = pcId;
+    await existingUser.save();
+  } catch (error) {
+    return next(new HttpError("Update user failed", 422));
+  }
+
+  res.status(200).json({ email: existingUser.email, pcId: existingUser.pcId, productId: existingUser.productId });
+}
+
 exports.signin = signin;
 exports.signup = signup;
+exports.updateUser = updateUser;
