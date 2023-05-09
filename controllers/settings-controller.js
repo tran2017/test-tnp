@@ -526,6 +526,7 @@ const checkIpsBlacklist = async (req, res, next) => {
       const itemData = {
         reportedCount: sitesGotReported.length,
         ip: element,
+        blServers: sitesGotReported
       };
 
       finalResults.push(itemData);
@@ -534,7 +535,7 @@ const checkIpsBlacklist = async (req, res, next) => {
     console.log(e);
   }
 
-  res.status(202).json({ blResults: finalResults, whiteLists: whitelistIps });
+  res.status(202).json({ blResults: finalResults, whiteLists: whitelistIps});
 };
 
 const handlerMailBox = async (user, pass, host, box) => {
