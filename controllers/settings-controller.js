@@ -268,7 +268,28 @@ const encryptLetter = async (req, res, next) => {
     return next(new HttpError("Invalid letter", 422));
   }
 
-  const { words } = req.body;
+  // const { words } = req.body;
+  const { words, email, pcId, productId } = req.body;
+
+  let existingUser;
+  try {
+    existingUser = await user.findOne({ email: email });
+  } catch (error) {
+    return next(new HttpError(error, 422));
+  }
+
+  if (!existingUser) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.pcId !== pcId) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.productId !== productId) {
+    return next(new HttpError("Invalid account, please try again", 500));
+  }
+
   let convertedList = [];
 
   let arrayLetters = words.match(regex).filter((x) => [...x].length > 1);
@@ -474,7 +495,27 @@ const checkIpsBlacklist = async (req, res, next) => {
     return next(new HttpError("Invalid proxy list", 422));
   }
 
-  const { ips } = req.body;
+  const { ips, email, pcId, productId } = req.body;
+
+  let existingUser;
+  try {
+    existingUser = await user.findOne({ email: email });
+  } catch (error) {
+    return next(new HttpError(error, 422));
+  }
+
+  if (!existingUser) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.pcId !== pcId) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.productId !== productId) {
+    return next(new HttpError("Invalid account, please try again", 500));
+  }
+
   let ipList = [];
   let whitelistIps = [];
 
@@ -526,7 +567,7 @@ const checkIpsBlacklist = async (req, res, next) => {
       const itemData = {
         reportedCount: sitesGotReported.length,
         ip: element,
-        blServers: sitesGotReported
+        blServers: sitesGotReported,
       };
 
       finalResults.push(itemData);
@@ -535,7 +576,7 @@ const checkIpsBlacklist = async (req, res, next) => {
     console.log(e);
   }
 
-  res.status(202).json({ blResults: finalResults, whiteLists: whitelistIps});
+  res.status(202).json({ blResults: finalResults, whiteLists: whitelistIps });
 };
 
 const handlerMailBox = async (user, pass, host, box) => {
