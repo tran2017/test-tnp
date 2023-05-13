@@ -585,6 +585,7 @@ const handlerMailBox = async (user, pass, host, box) => {
       let resArr = [];
       let totalMails = 0;
       let count = 0;
+      let finalResult = {};
       var mailListener = new MailListener({
         username: user,
         password: pass,
@@ -593,14 +594,14 @@ const handlerMailBox = async (user, pass, host, box) => {
         tls: true,
         connTimeout: 10000, // Default by node-imap
         authTimeout: 5000, // Default by node-imap,
-        debug: console.log, // Or your custom function with only one incoming argument. Default: null
+        debug: null, // Or your custom function with only one incoming argument. Default: null //console.log
         autotls: "never", // default by node-imap
         tlsOptions: { rejectUnauthorized: false },
         mailbox: box, // mailbox to monitor
         searchFilter: ["ALL"], // the search filter being used after an IDLE notification has been retrieved
         markSeen: true, // all fetched email willbe marked as seen and not fetched next time
         fetchUnreadOnStart: true, // use it only if you want to get all unread email on lib start. Default is `false`,
-        attachments: true, // download attachments as they are encountered to the project directory
+        attachments: false, // download attachments as they are encountered to the project directory
         attachmentOptions: { directory: "attachments/" }, // specify a download directory for attachments
       });
 
@@ -624,15 +625,22 @@ const handlerMailBox = async (user, pass, host, box) => {
 
       mailListener.on("mail", function (mail, seqno) {
         // const r = /([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/;
-        const r = /([a-zA-Z0-9._+-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi;
-        const from = mail.from.text.match(r)[0];
-        const to = mail.to.text.match(r);
+        // const r = /([a-zA-Z0-9._+-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi;
+        // const from = mail.from.text.match(r)[0];
+        // const to = mail.to.text.match(r);
 
-        resArr.push(from, ...to);
+        // resArr.push(from, ...to);
+
+        const from = mail.from.text;
+        // const to = mail.to.text;
+
+        resArr.push(from);
+        // resArr.push(to);
         count++;
         if (count === totalMails) {
           mailListener.stop();
-          resolve(resArr);
+          finalResult = { totalMails: totalMails, mails: [...resArr] };
+          resolve(finalResult);
         }
       });
     } catch (error) {
@@ -647,36 +655,56 @@ const fetchOfficeLeads = async (req, res, next) => {
     return next(new HttpError("Invalid proxy list", 422));
   }
 
-  const { mails, delimiter } = req.body;
-  let results = [];
-  let validOfficeAccounts = [];
-  for (let index = 0; index < mails.length; index++) {
-    const mailInfoArr = mails[index].split(delimiter);
-    if (mailInfoArr.length < 2) continue;
+  const { email, productId, pcId, mails, delimiter } = req.body;
 
-    const user = mailInfoArr[0];
-    const pass = mailInfoArr[1];
-    try {
-      const promiseArr = await handlerMailBox(user, pass, "outlook.office365.com", "INBOX");
-      const promiseArr1 = await handlerMailBox(user, pass, "outlook.office365.com", "JUNK");
-      let response;
-      let response1;
-
-      response = await Promise.resolve(promiseArr);
-      response1 = await Promise.resolve(promiseArr1);
-      results.push(...response, ...response1);
-
-      results = results.filter(function (item, pos) {
-        return results.indexOf(item) === pos;
-      });
-
-      validOfficeAccounts.push(mails[index]);
-    } catch (error) {
-      continue;
-      // return next(new HttpError("Not valid office leads", 422));
-    }
+  let existingUser;
+  try {
+    existingUser = await user.findOne({ email: email });
+  } catch (error) {
+    return next(new HttpError(error, 422));
   }
-  res.status(202).json({ mailList: results, validAccounts: validOfficeAccounts });
+
+  if (!existingUser) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.pcId !== pcId) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.productId !== productId) {
+    return next(new HttpError("Invalid account, please try again", 500));
+  }
+
+  let results = [];
+  let validOfficeAccounts;
+  let totalMailAccess = 0;
+  const mailInfoArr = mails.split(delimiter);
+  const userEmail = mailInfoArr[0];
+  const passEmail = mailInfoArr[1];
+  try {
+    const promiseArr = await handlerMailBox(userEmail, passEmail, "outlook.office365.com", "INBOX");
+    const promiseArr1 = await handlerMailBox(userEmail, passEmail, "outlook.office365.com", "JUNK");
+    let response;
+    let response1;
+
+    response = await Promise.resolve(promiseArr);
+    response1 = await Promise.resolve(promiseArr1);
+    results.push(...response.mails, ...response1.mails);
+    // results.push(response.totalMails + , ...response1);
+
+    // results = results.filter(function (item, pos) {
+    //   return results.indexOf(item) === pos;
+    // });
+
+    totalMailAccess = response.totalMails + response1.totalMails;
+
+    validOfficeAccounts = userEmail;
+  } catch (error) {
+    console.log(error);
+  }
+
+  res.status(202).json({ mailList: results, validAccounts: validOfficeAccounts, numberMailsAccess: totalMailAccess });
 };
 
 const RemoveSpamMails = async (req, res, next) => {
