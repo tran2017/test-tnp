@@ -8,7 +8,8 @@ const ENGINE = require("../shared/engine");
 const dns = require("dns");
 const net = require("net");
 const dnsbl = require("dnsbl");
-const parsePhoneNumber = require("libphonenumber-js/max");
+const BSON = require("bson");
+const parsePhoneNumber = require("libphonenumber-js");
 const lookup = require("country-code-lookup");
 var { MailListener } = require("mail-listener5");
 const legit = require("legit");
@@ -443,27 +444,67 @@ const getPhoneInfo = async (req, res, next) => {
     return next(new HttpError("Invalid emails", 422));
   }
 
-  const { numbers } = req.body;
-  const numberArr = [];
-  for (let index = 0; index < numbers.length; index++) {
-    let number = numbers[index];
+  const { numbers, email, pcId, productId } = req.body;
+
+  // let existingUser;
+  // try {
+  //   existingUser = await user.findOne({ email: email });
+  // } catch (error) {
+  //   return next(new HttpError(error, 422));
+  // }
+
+  // if (!existingUser) {
+  //   return next(new HttpError("Login failed. Please try again", 403));
+  // }
+
+  // if (existingUser.pcId !== pcId) {
+  //   return next(new HttpError("Login failed. Please try again", 403));
+  // }
+
+  // if (existingUser.productId !== productId) {
+  //   return next(new HttpError("Invalid account, please try again", 500));
+  // }
+
+  const resultArr = [];
+  let numberArr = [];
+  numbers.forEach((x) => numberArr.push({ originalNumber: x.Number, rowIndex: x.RowIndex }));
+  for (let index = 0; index < numberArr.length; index++) {
+    let number = numberArr[index].originalNumber;
+
     if (!number.includes("+")) {
-      number = "+" + numbers[index];
+      number = "+" + numberArr[index].originalNumber;
     }
 
     let phoneData;
     try {
       const phoneNumber = parsePhoneNumber(number);
+
       const type = phoneNumber.getType();
       const location = await geocoder(phoneNumber);
+
+      // var carrierLocale = ["ar", "be", "en", "fa", "ko", "ru", "uk", "zh", "zh_Hant"];
+      // let carrierName;
+      // for (let index = 0; index < carrierLocale.length; index++) {
+      //   const locale = carrierLocale[index];
+      //   try {
+      //     carrierName = await carrier(phoneNumber, locale);
+      //     if (!carrierName) continue;
+      //   } catch (error) {
+      //     continue;
+      //   }
+      // }
+
       const carrierName = await carrier(phoneNumber);
       const countryData = lookup.byIso(phoneNumber.country);
 
       phoneData = {
-        country: phoneNumber.country,
+        rowIndex: numberArr[index].rowIndex,
+        countryCode: phoneNumber.country,
+        country: phoneNumber.country ?? countryData.country,
         diallingCode: phoneNumber.countryCallingCode,
         type: type,
         local: phoneNumber.formatNational(),
+        format: phoneNumber.nationalNumber,
         international: phoneNumber.formatInternational(),
         carrier: carrierName,
         continent: countryData.continent,
@@ -473,19 +514,20 @@ const getPhoneInfo = async (req, res, next) => {
         capital: countryData.capital,
         isValid: true,
       };
-      numberArr.push(phoneData);
+      resultArr.push(phoneData);
     } catch (error) {
       phoneData = {
         isValid: false,
-        local: numbers[index],
+        local: numberArr[index].originalNumber,
       };
-      numberArr.push(phoneData);
+      resultArr.push(phoneData);
       continue;
     }
   }
 
   try {
-    res.status(202).json({ phoneDatas: numberArr });
+    // res.status(202).json({ phoneDatas: numberArr });
+    res.status(202).json(resultArr);
   } catch (error) {}
 };
 
