@@ -446,24 +446,24 @@ const getPhoneInfo = async (req, res, next) => {
 
   const { numbers, email, pcId, productId } = req.body;
 
-  // let existingUser;
-  // try {
-  //   existingUser = await user.findOne({ email: email });
-  // } catch (error) {
-  //   return next(new HttpError(error, 422));
-  // }
+  let existingUser;
+  try {
+    existingUser = await user.findOne({ email: email });
+  } catch (error) {
+    return next(new HttpError(error, 422));
+  }
 
-  // if (!existingUser) {
-  //   return next(new HttpError("Login failed. Please try again", 403));
-  // }
+  if (!existingUser) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
 
-  // if (existingUser.pcId !== pcId) {
-  //   return next(new HttpError("Login failed. Please try again", 403));
-  // }
+  if (existingUser.pcId !== pcId) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
 
-  // if (existingUser.productId !== productId) {
-  //   return next(new HttpError("Invalid account, please try again", 500));
-  // }
+  if (existingUser.productId !== productId) {
+    return next(new HttpError("Invalid account, please try again", 500));
+  }
 
   const resultArr = [];
   let numberArr = [];
@@ -481,18 +481,6 @@ const getPhoneInfo = async (req, res, next) => {
 
       const type = phoneNumber.getType();
       const location = await geocoder(phoneNumber);
-
-      // var carrierLocale = ["ar", "be", "en", "fa", "ko", "ru", "uk", "zh", "zh_Hant"];
-      // let carrierName;
-      // for (let index = 0; index < carrierLocale.length; index++) {
-      //   const locale = carrierLocale[index];
-      //   try {
-      //     carrierName = await carrier(phoneNumber, locale);
-      //     if (!carrierName) continue;
-      //   } catch (error) {
-      //     continue;
-      //   }
-      // }
 
       const carrierName = await carrier(phoneNumber);
       const countryData = lookup.byIso(phoneNumber.country);
