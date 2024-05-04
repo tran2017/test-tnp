@@ -14,6 +14,7 @@ const getTotalPage = (rootArray, perPage) => {
 const commonValues = {
   perPage: 10,
   JWT_KEY: process.env.JWT_KEY,
+  // JWT_KEY: "top_secret_token_2023",
 };
 
 const summaryData = (dataArr) => {
@@ -558,8 +559,6 @@ const sensitiveWordsLib = [
   "solution",
   "Rates",
 ];
-
-
 
 const blockLists = [
   "access.redhawk.org",

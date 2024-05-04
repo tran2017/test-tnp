@@ -45,6 +45,7 @@ app.use((error, req, res, next) => {
 });
 
 mongoose
+  // .connect("mongodb+srv://j-tran:X60RJhIGEzJFJU0e@cluster0.x6ooqfl.mongodb.net/products-manager?retryWrites=true&w=majority")
   .connect(`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.x6ooqfl.mongodb.net/${process.env.DB_NAME}?retryWrites=true&w=majority`)
   .then(() => {
     app.listen(5000); //process.env.PORT ||
