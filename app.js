@@ -1,6 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const mongoose = require("mongoose");
+const mongoose = require("./node_modules/mongoose");
 
 mongoose.set("strictQuery", false);
 if (process.env.NODE_ENV !== "production") {
