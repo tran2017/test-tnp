@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.20.2",
+    "body-parser": "1.5.0",
     "bson": "^5.3.0",
     "company-email-validator": "^1.0.9",
     "country-code-lookup": "^0.0.22",
