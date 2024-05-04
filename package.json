@@ -29,7 +29,7 @@
     "libphonenumber-geo-carrier": "^1.2.6",
     "libphonenumber-js": "^1.10.61",
     "mail-listener5": "^2.1.2",
-    "mongoose": "^8.3.3",
+    "mongoose": "^8.0.0",
     "mongoose-unique-validator": "^5.0.0",
     "nodemon": "^3.1.0",
     "trezor-address-validator": "^0.4.4",
